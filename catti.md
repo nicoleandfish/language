@@ -31,3 +31,49 @@
 
 　　人口普查工作从方案制定、物资准备、试点、人员培训、入户登记到数据处理等一切工 作都离不开人，队伍建设非常重要。能否组织好人口普查队伍，能否做好普查人员的选调， 直接影响到普查的工作质量和数据质量。
 
+
+
+## 疑-查-定-表
+
+We are enclosing a cheque as **consideration** in accordance with our agreement last year.
+
+根据去年的协议，我们附上一张支票作为报酬。
+
+If you have great talents, **industry** will improve them; if you have but moderate abilities, **industry** will supply their deficiency.
+
+如果你有不凡之才，勤奋能帮助你提升才能；如果你只有中等之才，勤奋可弥补你的不足。
+
+The board of the company  approved the **compensation** package for the directors.
+
+董事会通过了给董事的薪酬方案。
+
+Mediation is a process of dispute resolution that allows the parties involved to negotiate a mutually acceptable settlement **without prejudice**.
+
+调解是一种争议解决程序，可以让各方能够在保证权力不受损害的情况下谈判，达成双方都可以接受的解决方案。
+
+## 转-调-顺
+
+I want to thank the Shanghai Government for their warm welcome to us today. I am honoured to speak for all the exhibitors in saying we are happy to be here in this exciting city.
+
+我要感谢上海市政府今天对我们的热烈欢迎，我代表所有参展商发言感到荣幸，我们很高兴来到这座激动人心的城市。
+
+Design rights and all other intellectual in our work belongs to us and is licensed to you solely for the purposes of the of this contract.
+
+设计权益以及在我们作品内的，均属于我们，而且向你们颁发许可，仅仅是为了实施这个合同。
+
+Inflation measured by the retail price index(RPI), which is used for many pay negotiations, moved into positive territory for the first time since January.
+
+以零售物价指数衡量的通货膨胀自从一月份以来第一次上升到正数领域，很多工资谈判都是用这个指数。
+
+Iran has intensified its missile development programme in recent years, a source of serious concern in Israel, and in the US and among its western allies at a time when they accuse Tehran of seeking to build a nuclear weapon.
+
+近几年伊朗加强了导弹发展计划，这给以色列、美国以及西方盟国带来严重忧虑，他们原本就在指责德黑兰，试图建造核武器。
+
+
+
+## exercise
+
+1. Consumer prices, however they are measured, are more than 10% higher than a year ago.
+2. Economy and standard of living even in the poorest regions, are substantially improved in the past 5 years much to the surprise of even the most optimistic forecasters.
+3. 
+
