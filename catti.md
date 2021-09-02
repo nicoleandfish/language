@@ -75,5 +75,63 @@ Iran has intensified its missile development programme in recent years, a source
 
 1. Consumer prices, however they are measured, are more than 10% higher than a year ago.
 2. Economy and standard of living even in the poorest regions, are substantially improved in the past 5 years much to the surprise of even the most optimistic forecasters.
-3. 
+3. She couldn't let anyone see that she didn't know for sure if she was making any of the right decisions.
+4. Decisions on the care and treatment of young people are undertaken following comprehensive assessment - and, in my experience, guided by well-established national guidelines.
+5. Moreover, these decisions will be implemented while farmers also wrestle with the consequences of climate change, which, on balance, will do more harm than good to farmland round the world.
+6. It turns out that both schools were, in fact, registered and inspected by the authorities and that the public money they received came from a fund set up to enable parents to access free nursery care.
+7. The inescapable conclusion is that anyone who thinks advertising is the key to sustainable online businesses in any field other than search should think again.
+8. Some years ago there was a proposal that a redundant oil rig should be sunk, rather than towed to land for dismantling, as at the depths to which it would sink there was no possibility of the existence of any life.
+9. From the scientific perspective, the total of all these offers falls far short of what is required to keep the temperature rise below 2℃.
+10. This is a fast growing UK technology company which specializes in the manufacture and development of electronic equipment to reduce carbon emissions. An entrepreneurial business, its innovative designs and successful business culture have seen sales grow by 40% to over ￡25m in 2010.
+11. The concert wall  stands just a few yards from the site of the actual Berlin Wall which fell on November 9, 1989, ending 30 years of the forced division of West Berlin from East Berlin, and leading to the unification of West and East Germany the following year.
+12. The prosperity in Macau may be the result of soaring property and share prices in Shanghai and Hong Kong, which in turn and products of the Chinese government's massive, and temporary, infusion of liquidity into the economy.
+
+
+
+## skills
+
+### 1 定语过长
+
+Centrally located, the magnificent study centre is a five-story iconic building of our university.
+
+坐落于中心位置的宏伟的五层楼的学习中心是我们大学的标志性建筑。
+
+Sited in a royal park with a stunning view over London on one side, there are two sites side by side, the latest being opened in 2007. But both old and new present a visually pleasing and seamless blending of buildings.
+
+有两处并排的旅游点位于皇家公园，可以在一边俯瞰伦敦，景色优美。最新的一处在2007年开放。但是新老地点都呈现出各建筑的天衣无缝的融合，令人赏心悦目。
+
+### 2 定语变状
+
+International Financial Services, London (IFSL) is a private sector organization, with nearly 40 years' experience of successfully promoting the UK financial services industry.
+
+伦敦国际金融服务协会是一个私营组织，近40年来，一直在宣传英国的金融服务业，富有经验。
+
+Titan Magazines is the largest publisher of licensed entertainment properties in the US, UK, Australia and New Zealand.
+
+泰坦杂志在美国、英国、澳大利亚和新西兰的授权娱乐产品领域是最大的出版商。
+
+The residents of Lincoln have clocked up an amazing 35,000 games in one year since i.play was installed at The Lawn, the city's popular play area.
+
+i.play在林肯市广受欢迎的游乐区“大草坪”上安装了才短短一年，当地居民就累计玩了35,000次游戏，令人惊奇。
+
+ - exercise
+ - They are the largest public finance body for cutting-edge research in the UK.
+ - The NFU has also called for proper compensation for the risks and losses associated with the longer campaigns currently incurred by growers.
+ - She will help us focus on these areas of Europe where language has been a barrier for us so far.
+ - The annual competition celebrates UK entrepreneurs that have demonstrated exceptional dedications passion towards their work.
+ - This is to position our company as a producer of high-quality strip products on a global scale and an internationally competitive cost base.
+
+### 3 定语变动
+
+Centrally located, the magnificent world-renowed study centre is the iconic building of our university.
+
+我们的学习中心坐落于中心位置，气势雄伟、闻名于世，是我们大学的标志性建筑。
+
+It includes better wastewater management and control, integrated approaches to solid waste management.
+
+这包括改善废水管理和控制以及整合固体废物管理办法。
+
+This leads to reduced soil erosion, enhanced moisture retention relative to full-width conventional tillage...
+
+这能够减少水土流失，与传统的全宽耕作方法相比能够增强对湿度的保持...
 
