@@ -135,3 +135,49 @@ This leads to reduced soil erosion, enhanced moisture retention relative to full
 
 这能够减少水土流失，与传统的全宽耕作方法相比能够增强对湿度的保持...
 
+### exercise
+
+1. His improved salary changed his way of life.
+2. Our company will deliver reduced risk and minimized cost for you.
+3. Equipment designs allow faster operation and more efficient fuel usage.
+4. The UK has well-established financial systems that enable businesses of all sizes to raise equity finance.
+5. The environmental benefits and lower levels of power consumption offered by the widespread adoption of Ultra Efficiency Lighting have been recognized in the UK.
+
+## 4.4 主语提前
+
+With Professor Joe McGeehan as its Managing Director, Toshiba's Telecommunications Research Laboratory(TRL) has established a global reputation.
+
+东芝电信研究实验室由乔·麦吉汉教授担任负责人，已经在全球建立了卓越声誉。
+
+There are no government payments, no direct subsidies whatsoever, to sugar producers.
+
+政府对糖生产商不提供资助，也不提供任何直接补贴。
+
+### exercise
+
+1. Unveiling the greener taxi at London's City Hall, the Mayor said ...
+2. Setting up its UK headquarters in Nottingham, the Swedish company wants to benefit from the R&D capabilities of the universities in the area.
+3. Security and commerce, and even schooling and health, are visibly improving in many parts of Helmand, till now dubbed Afghanistan's most violent province.
+4. Passenger response times after the evacuation alarm sounded were measured by 100 video cameras placed in crucial positions by the research team.
+5. The Intelligent Energy fuel-cell system has been integrated into the most recent LT1TX4 design, and fits in the vehicle without intrusion into its internal or luggage space.
+
+## 4.5 逻辑依中
+
+Corrected for inflation, real prices have dropped nearly half since 1985, the last time the government raised the loan rate, or effective support price, for sugar.
+
+1985年，政府最后一次为糖业上调贷款利率，或者说提高有效的支持价格。此后，在扣除了通货膨胀的因素之后，实际价格下降了近一半。
+
+The high tariff was probably responsible for the dip in sugar refining by 8%from raw sugar during the first four months this year when 561,560 tonnes of refined sugar was produced.
+
+今年前4个月，由精炼原糖而得到的糖产量为56.156万吨，下降了8%，这很可能是局关税率造成的。
+
+# 5 新闻类文本翻译技巧
+
+## 5.1 先后顺序
+
+A man was arrested by police in London this morning on suspicion of terror attacks.
+
+伦敦警方今天上午逮捕了一名恐怖袭击嫌疑人。
+
+A search has begun for a Brazilian passenger plane with at least 150 people on board that has gone missing over the Amazon rainforest.
+
