@@ -181,3 +181,47 @@ A man was arrested by police in London this morning on suspicion of terror attac
 
 A search has begun for a Brazilian passenger plane with at least 150 people on board that has gone missing over the Amazon rainforest.
 
+巴西一架客机在亚马逊雨林上空失踪，机上至少有150人。有关部门已展开搜救工作。
+
+Rescue efforts are under way in several states in America's south and mid-west after a series of tornadoes left at least 20 people dead.
+
+美国南部和中西部数州连续遭受飓风袭击，至少20人死亡，目前救援工作已经展开。
+
+"They were in one particular part of the building that took a direct hit, "said the fire brigade.
+
+消防队说：“他们在被直接击中的那栋大楼的某个角落。”
+
+Police, social workers and doctors should be forced to share details about potentially dangerous people, a police chiefs' organization has said at its annual conference this morning.
+
+今天早上，警察总监的一个组织在其年度大会上说：应该强制警察、社会工作者和医生共享潜在危险分子的有关资料。
+
+### 5.2 名字分类
+
+来源
+
+| Ireland   | 爱尔兰。但在爱尔兰语里，该国名字是Éire。  |
+| --------- | ----------------------------------------- |
+| Wales     | 威尔士。但在威尔士语里，该国名字是Cymru。 |
+| Singapore | 新加坡。但是其原名是马来语的Singapura。   |
+
+原语言发音
+
+| Greece | 希腊。希腊语中的拼接Hellas音译成中文的。                     |
+| ------ | ------------------------------------------------------------ |
+| Turkey | 土耳其。如果按照英文发音，应该为"特其"                       |
+| Spain  | 西班牙。根据西班牙的拼写España音译成中文的。英文音译为“斯贝因” |
+
+### 5.3 句式处理
+
+#### 5.3.1 无主句
+
+There are three other afternoon kick-offs in the Premier League, after Spurs beat West Ham.
+
+继热刺击败西汉姆之后，英超还有三场比赛下午开球。
+
+There are still trees but they are much less dense than before.
+
+树还是有的，就是不如以前那么密了。
+
+#### 5.3.2 被动态
+
