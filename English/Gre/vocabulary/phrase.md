@@ -19,8 +19,46 @@
 - editorial board 编辑部，编辑委员会
 	- The editorial board of the newspaper decides which articles to publish.
 ---
-
+- instruction sheet 指示表
+	- Please read the instruction sheet carefully before assembling the furniture.在组装家具之前，请仔细阅读说明书。
+- safety instruction 安全说明
+	- Please read the safety instruction before operating the machine.在操作机器之前，请阅读安全说明。
+- verbal instruction 口授，口头指示
+	- The teacher gave verbal instruction to the students on how to solve the math problem.
+- instruction after class 课外辅导
+- instruction book 说明书
 ***
+- flexible arrangement 灵活的安排
+	- The company offers a flexible arrangement for employees who need to balance work and family commitments.该公司为需要平衡工作和家庭责任的员工提供灵活的安排。
+---
+- affluent society [社]富裕社会
+	- In the 1950s, the United States experienced a period of economic prosperity and abundance, known as the "affluent society".
+***
+- luxury goods 奢侈品
+	- The government has imposed strict controls over the import of luxury goods. 政府对奢侈品的进口采取了严格的管制
+- in the lap of luxury 在优裕的环境中
+	- He was brought up in the lap of luxury.他从小养尊处优
+- sober luxury 实用奢华
+***
+- withhold sth. from sb. 拒绝给某人
+---
+- emit an opinion 发表意见
+---
+- clip on 夹上
+	- Can you help me clip this microphone on my collar? 你能帮我把这个麦克风夹在我的衣领上吗？
+- hair clip 发夹
+	- He wants to create a jeweled hair clip for his beloved daughter.他想为他心爱的女儿设计一款宝石发卡。
+- a clip on the ear 一个耳光
+	- He received a clip on the ear as a punishment.他因为受到惩罚而被打了一耳光。
+- money clip 钱夹
+- clip off 剪断
+- clip somebody's wings 限制某人的自由（或权利）
+- in this clip 在此剪辑
+---
+- pivot point 枢轴点，回转枢心，握把颈，重点
+	- The pivot point of the conversation was when she mentioned her ex-boyfriend.对话的重点是当她提到了她的前男友。
+- pivot on 以...为中心
+---
 
 
 ### 20260331

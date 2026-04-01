@@ -38,8 +38,72 @@
 - swan n. 天鹅
 - wane n. 衰弱 v.变小，呈下弦
 ***
-
-
+- editorial n. 社论 adj. 编辑的
+- editor n. 编辑
+- auditorium n. 观众席
+- periodical n. （尤指学术）期刊
+- edit v. 编辑，校订
+- edition n. 版本，版次
+***
+- instruction n. 教授；知道；指令；用法说明；[计]指令
+- destruction n. 破坏，摧毁
+- instruct v. 指示，吩咐
+- instructor n.教练，导师
+- introduction n. 初次投入使用，采用
+- construction n. 建造，建筑
+- constitution n. 宪法，章程
+- situation n.情况，形势
+- direction n. 方向，方位
+- instrument n. 器械
+- institute n. 研究院，学院，协会
+***
+- extravagant adj. 奢侈的；铺张浪费的；过于昂贵的；（言行）放肆的
+- extraordinary adj. 异乎寻常的，令人惊奇的
+---
+- flexible adj. 灵活的；易弯曲的
+- feasible adj. 可行的，办得到的
+- flexibility n. 灵活性
+---
+- affluent adj. 丰富的；富裕的
+- fluent adj. （说话）流利的
+- abundant adj. 大量的，丰富的，充足的
+- sufficient adj. 足够的
+***
+- luxury n./adj 奢侈的
+- luxurious adj.奢侈的
+***
+- barren adj. 贫瘠的；不育的；无效果的
+- barrel n. 桶
+- barrier n. 障碍，壁垒
+- bare adj. 赤裸的
+- banner n. 横幅标语
+***
+- withhold v. 不给；停止；隐瞒；克制
+- withdraw v. 提取
+- withstand v. 顶住
+- uphold v.支持
+---
+- controversial adj. 引起争议的，有争议的
+- controversy n. 争论
+- conventional adj. 依照惯例的，遵循习惯的
+- conversation n. （非正式的）谈话，交谈
+---
+- emit v. 发出，散发
+- omit v. 省去，遗漏
+- exit n. 出口，通道，太平门
+- elite n. 权利集团，上层人士
+- admit v. （勉强）承认
+- permit v. 批准，许可
+- commit v. 犯罪
+- submit v. 呈递，提交
+- vent n. 通风口
+- eject v. 驱除
+- emission n.排放物，散发物
+---
+- clip v. 剪辑；修剪；削减；夹住 n.夹子；钳；视频片段
+- slip v. 滑倒，失足
+- cling v. 抓住，抱紧
+- slap v. （用手掌）打
 ### 20260331
 - troposphere 对流层
 - stratosphere 平流层
