@@ -1,4 +1,30 @@
+### 20260401
+***
+- batten down the hatches (喻)未雨绸缪，做好准备
+	- The storm is coming, so we need to batten down the hatches and secure everything.暴风雨要来了，所以我们需要做好准备。
+- hatch a scheme 密谋一计划
+***
+- moisture loss水分损失，湿气损失
+	- The moisture loss in the soil can lead to drought.土壤中的水分流失会导致干旱。
+- moisture content 水分，湿度
+	- The moisture content of the soil affects plant growth.土壤的湿度影响植物生长。
+- initial moisture content 初始含水量
+	- The initial moisture content of the soil is crucial for plant growth.土壤的出事含水量对植物生长至关重要。
+- moisture capacity 含水量，含持水量，湿度；吸湿能力
+***
+- pick up/gain momentum 越来越流行
+***
+- editorial officer 编辑部，编辑室
+	- I work in an editorial office.
+- editorial board 编辑部，编辑委员会
+	- The editorial board of the newspaper decides which articles to publish.
+---
+
+***
+
+
 ### 20260331
+
 - a petition for appeal 诉讼状
 - petitioned for retrial 请求复审
 
@@ -83,7 +109,7 @@ The doctor noticed the patient has distention of jugular vein.医生注意到病
 - varicose vein静脉曲张
 I noticed some varicose veins on my legs. 我注意到我的腿上有一些静脉曲张。
 - be not in the vein不在状态，没有心情
-
+---
 - speech contest 演讲比较
 If you can manage, we'd like you to attend our speech contest to Thursday morning.
 - plead no contest 认罚不认罪

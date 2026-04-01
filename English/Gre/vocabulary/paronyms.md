@@ -1,3 +1,45 @@
+### 20260401
+
+***
+- dispel vt. 驱散，驱逐；消除
+- disperse v.分散，散步
+- impel v.推动，驱使
+- repel v.击退，驱逐
+- propel v.推动，驱使
+- expel vt.驱除，开除
+***
+- hatch n./v. 孵蛋；开口
+- patch n.补丁，补片
+- match n.比赛，竞赛
+- catch v.接住
+- watch v.看，注视
+- fetch v.（去）拿来
+***
+- moisture n. 潮湿
+- moist adj. 潮湿的，微湿的
+- molecule n. 分子，摩尔
+- mist n. 薄雾，水汽
+***
+- incessant adj. 不停的
+- incessantly adv. 不停地
+- incense n. 香
+***
+-  ripen v. （使）成熟 
+- ripe adj.（水果，谷物等）成熟的
+- rape n. 强奸罪，强奸案
+- reap v.获得，收获
+***
+- momentum n. 动量，动力，冲力，势头  
+- monument n. 纪念碑，纪念物
+- memorandum n. 公务便条，备忘录
+***
+- wan adj.  苍白的，无血色的，憔悴的 
+- wane v. （月亮）缺，亏
+- swan n. 天鹅
+- wane n. 衰弱 v.变小，呈下弦
+***
+
+
 ### 20260331
 - troposphere 对流层
 - stratosphere 平流层
