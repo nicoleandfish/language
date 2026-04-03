@@ -1,3 +1,194 @@
+#### 20260403
+---
+- lunar month 朔望月，太阴月，会合月
+	- A month,especially a lunar month. 太阴月一个月，尤指阴历的月
+- lunar eclipse 月食
+	- It was reported that there would be a lunar eclipse tomorrow evening.据报道说，明天晚上有月食。
+- lunar calendar 阴历，农历
+	- In many Asian countries, the lunar calendar is used to determine the dates of traditional holidays. 在许多亚洲国家，农历日历被用来确定传统节日的日期。
+- lunar new year 农历新年
+- lunar January 农历正月
+---
+- low profile 隐蔽不漏的活动，低姿态的活动
+	- The government is trying to keep a low profile on this issue.政府力图在这个问题上保持低姿态。
+- high profile 明确的立场
+	- need to maintain a high profile in his profession在职场上他必须保持明确的态度
+- in profile 以侧面
+	- She attempted to see herself in profile with the aid of her pocket mirror. 她想用小镜子看看自己的侧影。
+- wave profile 波形，波剖面
+- profile machine 仿形铣床，仿型机床
+- user profile 用户画像；用户资料
+- personal profile 个人资料，个人简介
+---
+- be indignant with sb. 对某人愤怒
+- indignant at/about/over sth. 因某事而愤怒
+---
+- complementary angle 余角
+	- The sum of the angles in a right triangle is always 90 degrees. So, if one angle is 30 degrees, the complementary angle would be 60 degrees.
+---
+- all along 始终，一直，一贯
+	- We knew it all along. 我们早就知道
+- along with 与... 一道
+	- She lost her job when the factory closed, along with hundreds of others.
+- get along with 友好相处（和睦相处），取得进展
+	- Do you get along with your boss?
+- go along with 陪...一起去，赞同
+- come along 一道走
+- walk along 沿着...走
+- pass along 传；沿着
+- move along 往前走
+- play along with （暂时）与...合作，参与
+- muddle along 胡乱过日子；混日子，得过且过；杂乱无章地干下去
+- went along 前进
+---
+- private entrepreneurs 私营企业主
+	- He is one of the most successful private entrepreneurs in the country.他是这个国家最成功的私营企业家之一
+---
+- stereo system立体声系统
+	- The car has a good stereo system.
+- stereo tome 立体图片
+	- I was amazed by the incredible depth and realism of the stereo tome I viewed through the virtual reality headset. 我对通过虚拟现实头盔观看的立体图片的惊人深度和逼真感感到惊讶。
+---
+- equity participant 参股者
+	- As an equity participant, you have the right to vote on important company decisions.
+---
+- divert from 转移
+	- I decided to divert from my usual routine and try something new. 我决定偏离我日常活动，尝试一些新的事物
+- divert from ... to ... 将...转移到...
+- divert one's attention 转移某人的注意力
+---
+- grazing land畜牧场
+	- How to withdraw from grazing land.
+- cattle grazing 牛放牧
+	- The rancher led the cattle grazing across the vast grasslands, allowing them to freely roam and feed.牧场主带领着牛群在广袤的草原上放牧，让它们自由漫游和觅食。
+- over grazing 过度放牧
+---
+- on board 上船；在船上；成并排；是其中一部分；有工作上的联系；在垒上
+	- He has never been on board a ship before. 他从来没有乘过船。
+- ironing board 烫衣板
+	- He burned a hole on the ironing board.他把熨衣板烧了一个洞
+- board of directors 理事会；董事会
+	- The board of directors approved the project in principle.董事会原则上同意这个项目
+- free on board 船上交货的，离岸价格的
+- across the board 包括一切的，全面的
+- notice board 布告牌
+- bulletin board 告示牌
+- on the board 将会在会上讨论，在木板上
+- board the lodging 膳宿，包吃包住
+- circuit board 电路板，线路板
+- above board 在桌面上的；公开的；诚实的，光明正大的
+- boarding school 寄宿学校
+---
+- a slice of 一片
+	- I had a slice of cake for dessert.
+- sliced bread 切片面包
+	- A loaf of sliced bread, please. 请给我一个切好片的面包。
+- slice away 割去
+	- I watched the chef slice away at the vegetables with precision.我看着厨师用精准的刀法切割蔬菜。
+- slice sth. off/away 切下
+- a slice of good luck 一份好运气
+---
+- first and foremost 首要的事，首先
+	- First and foremost I want to thank our hosts for their wonderful reception. 首先，我想对主人热情的招待表示谢意
+- head foremost 头向前的
+	- He went head foremost into the river. 他一头栽进河里。
+---
+- to deploy one's resources 施展自己的聪明才智
+---
+- inferior to 次于，比...差，低于
+	- He is inferior to you in all respects. 他在各个方面都不如你。
+---
+### 20260402
+---
+- a population of explosion 人口剧增
+---
+- bed linen 床用织品
+	- The hotel provides fresh bed linen for every guest upon arrival. 酒店为每位客人抵达时提供干净的床用织品。
+- Wash your dirty linen at home. [谚]家丑不可外扬
+---
+- discount rate 【经】贴现率
+	- The interest deducted prior to purchasing, selling, or holding a commercial paper is the discount rate.
+- at a discount 打折扣；（股票值）低于票面价值；不值钱；不受重视的；不全信的
+	- In view of these restrictions, you would have to sell oil at a discount.鉴于这些限制，你将不得不削价出售石油。
+- cash discount 现金折扣，贴现扣息
+	- The cash discount given on this bill is an incentive to pay the bill on date due.对此账单，我公司所以办理现金折扣，乃系奖励如期付款。
+- five-finger discount 商店顺手牵羊，商店行窃
+- discount market 贴现市场，折扣市场
+- settlement discount 结算折扣
+- discount window 贴现窗口
+- discount coupon [经]贴现息票，打折券
+---
+- a fiery sky 火红的天空，落日余晖
+	- This is a fiery sky.
+---
+- down in the dumps 忧郁的，闷闷不乐的
+	- be down in the dumps over money problems 在金钱问题上闷闷不乐
+- dump on 欺骗，使上当
+	- I felt like my broker dumped on me by selling me those worthless stocks.
+- not care a dump 毫不在乎
+	- I do not care a dump whether they know it or not.
+- dump truck 自卸货车，翻斗车
+- anti-dumping measures 反倾销措施
+- rubbish dump 垃圾堆
+---
+- spin a yarn 讲故事
+	- He spun me some yarn this morning about having to have the day off on Friday. 他今儿早上跟我胡编，说什么他星期五非请一天假不可
+- <span style="color: red;">spin out </span>消磨；拖长时间；把故事拉长；使金钱尽可能多维持一些日子；投旋转球退场；车辆打滑失控
+	- We spun out the afternoon playing cards.
+- to spin 螺旋下降
+	- The old sailor lovers to spin yarns about his life at sea.
+- spun off 有用的副产品
+- spin off 使脱离
+- spun out 拉长
+---
+- register with 向...登记
+	- All foreign visitors must register with the state official on entering the country.
+- register for 注册，选课
+	- We must register for the courses that we're going to take by tomorrow.
+- cash register 现金收入记录机
+	- These's no cash register in this restaurant.
+- electoral register (英国)选民登记册
+- registered capital 注册资本
+- registered mail 挂号邮寄，挂号信
+- registered trademark 注册商标
+- check register 校验寄存器，检验寄存器，支票登记簿
+- index register 索引寄存器
+---
+
+
+```
+from playwright.sync_api import sync_playwright
+
+  
+
+def run_test():
+
+    with sync_playwright() as p:
+
+        browser = p.chromium.launch(headless = False)
+
+        page = browser.new_page()
+
+        page.goto("https://www.google.com")
+
+        page.fill("input[name='q']","自动化测试")
+
+        page.press("input[name='q']","Enter")
+
+        page.screenshot(path="google_result.png")
+
+        browser.close()
+
+  
+
+if __name__ == "__main__":
+
+    run_test()
+```
+
+
+---
+
 ### 20260401
 ***
 - batten down the hatches (喻)未雨绸缪，做好准备

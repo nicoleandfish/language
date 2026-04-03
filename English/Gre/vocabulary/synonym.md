@@ -1,3 +1,94 @@
+#### 20260403
+---
+- plow n. 犁 v. 耕田，犁田，耕作
+- v. furrow | plough
+---
+- playwright n. 剧作家
+- n. dramatist | scriptwriter | scenarist
+---
+- indignant adj. 愤怒的，恼怒的
+- adj. apoplectic | enraged | furious | angry | infuriate | wrathful
+---
+- complementary adj. 补充的；互补的
+- adj. supplemental | supplementary
+---
+- along adv. 向前；一起 prep. 沿着
+- adv. ahead | forth | forward
+---
+- participant n. 参与者，参加者
+- n. participator
+---
+- leach v. 过滤；溶解 n. 过滤器；过滤剂
+- v. filter | leaching | leak | percolate |  seep | strip | trickle | filt
+---
+- divert v. 使专项；使分心；供消遣
+- v. disport | amuse | entertain | regale
+---
+- aboriginal adj. 原始的；土著的 n. 土著
+- adj. native | autochthonous | indigenous
+- n. aborigine | autochthon | indigene | native
+---
+- mannerism n. 怪癖；（绘画、写作等）过分的独特风格
+- n. idiosyncrasy | habit
+---
+- grazing n. 放牧；牧场
+- n. pasture | grassland
+---
+- board n. 木板；甲板；公告板；黑板；董事会；伙食；舞台 v. 登船；寄宿
+- v. get on
+---
+- locality n. 地区，未知，地点，发生地
+- n. locate | place | location | site | position | spot
+---
+- slice n. 薄的切片；部分；锅铲 v. 切成薄片；大幅降低；砍，削
+- n. part | portion | segment | sliver
+- v. sliver | slash | gash | cut
+---
+- foremost adj. 最先的；最重要的，最著名的
+- adj. cardinal | chief | dominant | first | paramount | predominant
+---
+- inferior adj. 次等的；（质量）差的 n.下级，下属，晚辈
+- adj. low-level
+---
+
+### 20260402
+---
+- era n. 纪元；时代
+- n. day | epoch | age | period | time
+---
+- <span style="color: red;">domicile</span> n. 住所
+- n. abode | home | dwelling | habitation | house | residence
+- v. accommodate | house | lodge | settle | settle down
+---
+- explosion n. 爆炸；爆发；激增
+- n. blast | blowup | burst | outburst | detonation
+---
+- discount vt. 打折，不全信
+- v. brush off
+---
+- belie vt. 错觉；掩饰；证明不正确
+- v. cover | mask | hide
+---
+- fiery adj. 似火的；易怒的
+- adj. blazing | conflagrant | flaming
+---
+- configuration n. 布局；结构；配置
+- n. architecture | frame | fabric | framing | structure
+---
+- dump vt. 丢弃；抛弃；推卸 n. 垃圾场
+- v. ditch | jilt | leave
+- n. scrapyard | junkyard | landfill
+---
+- demolish vt. 拆除；破坏；推翻（论点）
+- v. level | raze | pull down | tear down | destroy
+---
+- spin v. 旋转；纺纱；吐丝；甩干衣服 n. 旋转
+- v. gyrate | resolve | rotate | twirl | wheel | whirl
+- n. gyration | rotation | whirl
+---
+
+---
+
 ### 20260401
 ***
 - 驱散 vt. dispel

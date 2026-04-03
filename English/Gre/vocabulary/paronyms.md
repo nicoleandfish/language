@@ -1,3 +1,172 @@
+#### 20260403
+---
+- lunar adj.月球的，月亮的
+- solar adj. 太阳的，和太阳有关的
+- polar adj. 极地的，来自极地的
+---
+- spinet n. 小型立式钢琴
+- spine n. 脊柱，脊髓
+---
+- profile n. 人物专访；概述；面部的侧影；轮廓 vt. 扼要介绍，概述
+- profit n. 利润
+- preface n. (书的)前言
+---
+- plow n. 犁 v. 耕田，犁田，耕作
+- glow v. 发出微弱而稳定的光
+- flow v. 流动
+- plough v. 犁，耕
+- paw n. （动物的）爪子
+---
+- playwright n. 剧作家
+- shipwright n. 造船工人，造船木匠
+---
+- indignant adj. 愤怒的，恼怒的
+- indignation n. 愤愤不平的，义愤
+- indigenous adj. 本土的，特有的
+- ingredient n.（食品的）成分，原料
+---
+- complementary adj. 补充的；互补的
+- complimentary adj. 赞美的，表示钦佩的
+- complement v. 补充，补足
+- compliment n.赞扬
+- completely adv. 完全地，彻底地
+- contemporary adj. 当代的，现代的
+---
+- along adv. 向前；一起 prep. 沿着
+- among prep. 在...当中，周围是
+- alone adj. 独自的
+- belong v. 应在...地方
+---
+- entrepreneur n. 企业家；承包人
+- entrepreneurial adj. 具有企业家素质的
+- enterprise n. 企业，事业单位
+- entreprenant adj.有上进心的
+---
+- stereo n. 立体声音响（系统） adj. 立体声的
+- storey n. 楼层
+- stereotype n. 模式化的思想，老一套
+---
+- participant n. 参与者，参加者
+- participate v. 参加
+- participation n. 参加
+- particular adj. 特定的
+- anticipate v. 预期
+---
+- leach v. 过滤；溶解 n. 过滤器；过滤剂
+- bleach v. 漂白
+- breach n. 违反，破坏
+- bleak adj. 不乐观的，无望的
+---
+- divert v. 使专项；使分心；供消遣
+- dive v. 跳水
+- diverse adj. 不同的
+- avert v. 防止，避免
+- diversity n. 多样化
+- diversion n. 转向
+- distract v. 使分心
+---
+- board n. 木板；甲板；公告板；黑板；董事会；伙食；舞台 v. 登船；寄宿
+- bored adj. 无聊的，厌倦的
+- aboard adv. 在船上
+- broad adj. 宽广的
+- border n. 国境，边界
+- road n. 路，马路
+- abroad adv. 在国外
+- blackboard n. 黑板
+---
+- locality n. 地区，未知，地点，发生地
+- location n. 地点
+- loyalty n. 忠诚
+- vicinity n. 周围地区
+- allocate v. 分配
+---
+- slice n. 薄的切片；部分；锅铲 v. 切成薄片；大幅降低；砍，削
+- slide v. 滑行
+- slip v. 滑倒，失足
+- piece n. 块，张
+- silence n. 寂静
+- silver n. 银
+---
+- foremost adj. 最先的；最重要的，最著名的
+- forecast v. 预测，预报
+- foresee v.预见
+- forehead n. 前额
+- former adj. 旧时的
+- utmost adj. 极度的，最大的
+- hindmost adj. 最后的
+---
+- deploy vt. 部署，调度（军队等）；利用
+- deplore v. 强烈反对，谴责
+- employ v. 雇佣
+- deport v. 驱逐
+---
+- prerequisite n. 先决条件，前提 adj. 必备的
+- requisite adj. 必须的
+- exquisite adj. 精致的，精美的
+---
+- inferior adj. 次等的；（质量）差的 n.下级，下属，晚辈
+- interior adj. 内部的，里面的
+- infer v. 推断
+- superior adj. 更大的，更强的，更好的
+- exterior adj. 外部的
+- interfere v. 干涉，干扰
+- inference n. 推断，推理
+- prior adj. 先前的
+- senior adj. 年纪大的
+- junior adj. 年纪小的
+---
+
+### 20260402
+---
+- era n. 纪元；时代
+- ear n. 耳朵
+- area n. 地区，区域
+- rear n. 后部，背部
+- age n. 年龄
+---
+- explosion n. 爆炸；爆发；激增
+- explosive adj. 易爆的
+- explain v. 解释
+- exploit v. 剥削，开发
+- explode v. 使爆炸
+- explore v. 探讨
+- exposure n. 暴露
+- expose v. 暴露
+- exhibition n. 展览
+---
+- linen adj./n. 亚麻的
+- linear adj. 直线的
+- liner n. 邮轮
+- linger v. 继续留存，缓慢消失
+- lean v. （身体）倾斜
+- flax 亚麻
+---
+- discount vt. 打折，不全信
+- count v. 数数
+- account n. 账户
+---
+- configuration n. 布局；结构；配置
+- construction n. 建筑，建造
+- figurative adj. 比喻的
+---
+- dump vt. 丢弃；抛弃；推卸 n. 垃圾场
+- dumb adj. 哑的，不能说话的
+- bump v.碰上
+- damp adj. 潮湿的
+- lump n. 块
+- pump n. 抽水机
+---
+- demolish vt. 拆除；破坏；推翻（论点）
+- demolition n. （故意的）拆毁
+- diminish v. 减弱
+---
+- spin v. 旋转；纺纱；吐丝；甩干衣服 n. 旋转
+- spun v. 旋转
+- span n. 时间跨度，一段时间
+- spit v. 啐唾沫
+- spite n. 恶意
+---
+
 ### 20260401
 
 ***
