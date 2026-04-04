@@ -1,3 +1,40 @@
+#### 20260404
+- - - - - 
+- metropolis n. 首都；大都市
+- n. megacity | megalopolis
+- - - - - 
+- pictorial adj. 图示的；绘图的 n. 画报
+- adj. graphic | photographic
+- - - - - 
+- strain v. 扭伤；竭尽全力；拉紧 n. 张力；拉紧；过高的要求或负担；扭伤
+- v. wrench | sprain
+- - - - - 
+- engage v. 吸引住；参与；订婚；与...建立密切关系；与（某人）交战
+- v. absorb | engross | fascinate | immerse | involve | catch one's eye
+- - - - - 
+- cipher n. 密码，暗号，零，阿拉伯数字，密码索引；v. 计算，运算，用密码书写
+- n. zero | naught | nil
+- v. calculate | compute | figure | reckon | work out
+- - - - - 
+- precise adj. 精确的，准确的
+- adj.  accurate | exact | mathematical | pinpoint | spot-on
+- - - - - 
+- substantial adj. 大量的；相当程度的；重大的；实质的；基本上的
+- adj. considerable | consequential | momentous | significant | important | weighty
+- - - - - 
+- advantageous adj. 有利的
+- adj. beneficial | good | helpful | favorable
+- - - - - 
+- charismatic adj. 承蒙神恩的；有超凡魅力的
+- adj. alluring | appealing | attractive | fascinating |charming | glamorous
+- - - - - 
+- commodity n. 商品；有用的东西；有使用价值的事物
+- n. something | goods
+- - - - - 
+- herald v. 是（某事）的前兆；预示；宣布（好或重要的事）n. 预兆；信使
+- v. adumbrate | forerun | foreshadow | prefigure
+- - - - - 
+
 #### 20260403
 ---
 - plow n. 犁 v. 耕田，犁田，耕作
