@@ -62,6 +62,28 @@ Some public services have difficulty balancing their budgets.
 We should take the social and economic environment into consideration.
 We have to consider the social and economic context.
 #### 12、密度种植对生物多样性造成了威胁
+#### 60、孩子很有可能有行为的问题
+- Some children are likely to have behavioural problems.
+#### 61、人口的扩大是大量垃圾产生的原因
+- The rapid population expansion is the main reason for the huge accumulation of waste. @2026-04-04 17:14:02
+#### 62、严厉的惩罚是减少犯罪的有效手段
+- Imposing stiff punishment is an effective method to reduce crime.
+#### 63、我们的环境还是很糟糕
+- Our environment is still **in a dire state.**
+#### 64、因为失业率高涨，大学生干到有压力而努力学习
+- Undergraduates feel under increasing pressure to study hard, because of the soaring unemployment rate.
+#### 65、种族歧视仍然很严重
+- Racial discrimination remains a serious problem.
+#### 66、死记硬背乘法表并不是提高算数能力的最好方式
+- Learning the times table by rote is not the best way to improve numeracy.
+#### 67、贫穷国家的首要问题是满足人民的基本生存需求
+- The top priority for deprived countries is to satisfy citizens' basic needs.
+#### 68、转基因食品对健康的影响仍然未知
+- The health effect of GE food remains unclear/yet to be known.
+#### 69、网络购物已经成为很多人生活中很普通的一部分
+- Online shopping has become a normal part of people's daily life.
+####  70、在一个消费社会里，人们不再满足于生活必需品
+- In the consumer society, bare necessities are not able to satisfy people's needs.
 #### 71、人们不健康的生活方式是他们倾向于依赖科技的结果
 People's unhealthy lifestyle is the result of the tendency to rely heavily on technology.
 #### 72、贫穷是社区犯罪增多的原因
