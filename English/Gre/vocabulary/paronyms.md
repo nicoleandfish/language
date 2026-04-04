@@ -1,3 +1,71 @@
+#### 20260404
+- - - - - 
+- metropolis n. 首都；大都市
+- metropolitan adj. 大都市的，大都会的
+- - - - - 
+- strain v. 扭伤；竭尽全力；拉紧 n. 张力；拉紧；过高的要求或负担；扭伤
+- stenuous adj. 费力的，艰苦的
+- restrain v. 制止
+- stain v. 留下污渍
+- grain n. 谷物
+- drain v. 排出，滤干
+- stress n. 精神压力，紧张
+- refrain v. 克制，避免
+- restraint n. 克制，抑制
+- - - - - 
+- engage v. 吸引住；参与；订婚；与...建立密切关系；与（某人）交战
+- engagement n. 参与；订婚；婚约；雇佣；交战；保证；约会
+- energy n. 能力，力气
+- emerge v. 浮现
+- - - - - 
+- cipher n. 密码，暗号，零，阿拉伯数字，密码索引；v. 计算，运算，用密码书写
+- decipher v. 破译
+- - - - - 
+- reunion n. 团结，重聚
+- union n. 联盟，联合会
+- reunite v. 团聚，重聚
+- onion n. 洋葱
+- - - - - 
+- precise adj. 精确的，准确的
+- precisely adv. 精准地，准确地
+- precious n. 精确性
+- prescribe v. 给...开药
+- previous adj. 以前的，先前的
+- predict v. 语言的，预计
+- - - - - 
+- substantial adj. 大量的；相当程度的；重大的；实质的；基本上的
+- substance n. 物质，实质；重要性；主旨；药物
+- essential adj. 必不可少的，非常重要的
+- substitution n. 代替，替换
+- substainable adj. 可持续的
+- substitute n. 替代品
+- subsequent adj. 随后的，接着的
+- - - - - 
+- advantageous adj. 有利的
+- advantage n. 优势，有利条件，有利因素
+- adventurous adj. 勇于冒险的，敢于创新的
+- advancement n. 前进
+- adventure n. 冒险，奇遇
+- - - - - 
+- charismatic adj. 承蒙神恩的；有超凡魅力的
+- charisma n. 超凡的个人魅力，感召力，号召力
+- - - - - 
+- commodity n. 商品；有用的东西；有使用价值的事物
+- communism n. 共产主义
+- accomodate v. 为...提供住宿
+- commercial adj. 商业的
+- commission n. 考察团，委员会
+- commerce n. 商业
+- - - - - 
+- herald v. 是（某事）的前兆；预示；宣布（好或重要的事）n. 预兆；信使
+- unheraldld adj. 未曾提及的，突如其来的，突然发生的
+- herd n. 兽群
+- shield n. 盾牌
+- hazard n. 危险
+- hatred n. 仇恨
+- weld v. 焊接
+- - - - - 
+
 #### 20260403
 ---
 - lunar adj.月球的，月亮的
