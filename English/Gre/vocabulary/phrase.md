@@ -1,3 +1,48 @@
+#### 20260404
+- - - - - 
+- pictorial photography [摄] 艺术摄影，图像摄影术
+    - I enjoy looking at pictorial photography because it captures the beauty of nature in a unique way.
+- - - - - 
+- strain every nerve 竭尽全力，拼命
+    - The man strained every nerve to catch up with me.
+- strain after 竭力追求，拼命争取
+    - The writer has spoiled an otherwise good story by straining after the effect. 由于作者竭力追求效果，把本来可以是很好的一篇小说给弄糟了。
+- strain at 难以接受；用力推拉；使劲
+    - Anyone would strain at such an interpretation. 这种解释谁都难以接受
+- strain a point 超越限度，引申过甚
+- eye strain 眼疲劳
+- repetitive strain injury （肢体的）重复性劳损
+- economic strain 经济紧张
+- put strain on 对...加负担
+- strain to do sth. 尽力做某事
+- - - - - 
+- engaged with 与...交战，与...接洽
+    - Our ships have engaged with the enemy. 我们的舰船已与敌人交战。
+- engage in 从事，参加
+    - I have no time to engage in gossip.  我无暇闲聊
+- engage with 与...交战，与...接洽
+    - The general ordered his soldiers to engage with the enemy. 将军命令他的战士们向敌人进攻
+- engage for 应承，约定
+- engage a room 预订房间
+- engage on 参加，从事
+- engaged on 正忙于，正从事于，参加
+- engage to 订婚
+- - - - - 
+- to be precise 确切地说
+    - I have to be up early, 4 a.m. to be precise. 我必须早起，确切地说，早晨4点钟就得起身
+- at the precise moment 恰在这个时候
+- - - - - 
+- commodity price 商品价格
+    - Hedge can help them offset inventory loss when commodity price fall. 在商品市场下跌时，海琴能够帮助他们抵补存货价跌的损失。
+- commodity market 商品市场
+    - The price of wheat in the commodity market has been steadily increasing.
+- commodity code 商品编码
+    - The commodity code for this product is 12345.
+- comodity futures 商品期货
+- argicultural commodity 农产品
+- - - - - 
+- herald of spring 春天的使者
+- - - - - 
 #### 20260403
 ---
 - lunar month 朔望月，太阴月，会合月
