@@ -1,3 +1,33 @@
+#### 20260405
+- - - - - 
+- crossing n. 十字路口；过境处；交叉点；穿越
+- n. passage
+- - - - - 
+- gorilla n. 大猩猩
+- n. chimpanzee
+- - - - - 
+- extremity n. 末端；极端，极度
+- n. end
+- - - - - 
+- clench v./n. 抓紧，抓牢；咬紧牙关
+- v. hold | cling | clutch | grip
+- - - - - 
+- chorus n. 齐声；合唱团；副歌；朗诵演员 v. 合唱；齐声说；异口同声地说
+- n. chorale | glee club
+- - - - - 
+- expire v. 失效，终止；到期；届满；逝世
+- v. lapse |  terminate | die | end | cease
+- - - - - 
+- depose vt. 罢免，废黜
+- v. defrock | deprive | dethrone | oust
+- - - - - 
+- imbibe v. 喝；吸收
+- v. assimilate | absorb | digest | ingest | soak up | take in
+- - - - - 
+- alga n. 藻类
+- n. seaweed | kelp
+- - - - - 
+
 #### 20260404
 - - - - - 
 - metropolis n. 首都；大都市
