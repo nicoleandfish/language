@@ -1,3 +1,56 @@
+#### 20260405
+- - - - - 
+- crossing n. 十字路口；过境处；交叉点；穿越
+- cross v. 反对
+- across adv. 从一边到另一边
+- - - - - 
+- diet n. 日常饮食 v. 节食 adj. 低糖的
+- dietary adj. 饮食的，规定食物的
+- die v. 死亡
+- debt n. 欠款
+- diary n. 日记
+- dairy adj. 奶制的
+- daily adj. 日常的
+- - - - - 
+- extremity n. 末端；极端，极度
+- extreme adj. 极度的；极端的；异乎寻常的；严重的
+- tremedous adj. 巨大的
+- - - - - 
+- cape n. 海角；斗篷
+- cope v. 对付，处理
+- rape n. 强奸罪
+- cop n. 警察
+- rap n. 说唱音乐
+- cloak n. 斗篷，披风
+- cap n. 帽子
+- - - - - 
+- clench v./n. 抓紧，抓牢；咬紧牙关
+- clutch v. 紧握，紧抓
+- sketch n. 素描
+- snatch v. 一把抓住，立马夺下
+- - - - - 
+- chorus n. 齐声；合唱团；副歌；朗诵演员 v. 合唱；齐声说；异口同声地说
+- chore n. 家庭杂务
+- choir n. 唱诗班
+- circus n. 马戏团
+- chaos n. 混乱
+- - - - - 
+- expire v. 失效，终止；到期；届满；逝世
+- export v. 出口
+- aspire v. 渴望
+- explore v. 探讨
+- empire n. 帝国
+- inspire v. 激励，鼓舞
+- expiry n. 保质期
+- - - - - 
+- depose vt. 罢免，废黜
+- deposition n. 沉积作用；罢免；证词
+- deport v. 驱逐
+- - - - - 
+- alga n. 藻类
+- algae 复数形式
+- algal adj. 藻的
+- - - - - 
 #### 20260404
 - - - - - 
 - metropolis n. 首都；大都市
