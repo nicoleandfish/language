@@ -1,3 +1,55 @@
+#### 20250405
+- - - - - 
+- border crossing 边境渡口，过境处
+    - He was arrested by guards at the border crossing.
+- railway crossing 铁路交叉，平交道口
+    - The new road will pass over the dangerous railway crossing where ten people were killed in a bus last year.
+- zebra crossing 斑马线，人行横道
+    - I always look both ways before crossing the zebra crossing.
+- overhead crossing 高价立交，立体交叉
+- level crossing 平交道
+- grade crossing [美]（铁道，公路等的）平面交叉
+- river crossing 渡口，过河设施
+- - - - - 
+- on a diet 在节食
+    - He's thinned down a lot since he went on a diet. 他自从节制饮食以来已经瘦了不少。
+    - go on a diet 开始节食
+- bland diet 清淡的饮食，清淡膳食
+    - The doctor put her on a bland diet of rice and boiled chicken after the surgury.
+- a wholesome diet 健康饮食
+    - Maintaining a wholesome diet is essential for long-term health and well-being.
+- unhealthy diet 不健康的饮食方式
+- diet cola 健怡（不含糖）可乐
+- meat diet 少盐饮食，肉食
+- - - - - 
+- upper extremity 上肢
+    - The upper extremity refers to the part of the body that includes the arm, forearm, wrist, and hand. 上肢指的是身体的一部分，包括手臂、前臂、手腕和手
+- Extremity Counterattack 绝地反击
+- extremity circle 极大圆
+- unaffected extremity 健肢
+- Extremity Conditions 肢体条件
+- last extremity 最后阶段
+- Extremity Trauma 四肢外伤
+- cardinal extremity 基端；主端
+- extremity oriention 极端导向
+- superior extremity 上端
+- - - - - 
+- CAPE TOWN 【城】开普敦
+    - I visited CAPE TOWN last summer.
+- Cape Verde 【国】佛得角
+    - I am planning a trip to Cape Verde next month. 我计划下个月区佛得角旅行
+- cape horn 好望角
+    - Sailing around cape horn can be a treacherous journey. 绕过好望角航行可能是一段危险的旅程
+- cape jasmine 栀子花
+- - - - - 
+- clench the jaw 咬紧牙关
+- - - - - 
+- in chorus 一齐，一致，共同 = all together
+    - The whole class relied in chorus to the teacher's question. 
+- chorus master 合唱队指挥
+- a mixed chorus 混声
+- - - - - -
+
 #### 20260404
 - - - - - 
 - pictorial photography [摄] 艺术摄影，图像摄影术
