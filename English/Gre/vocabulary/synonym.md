@@ -1,3 +1,37 @@
+#### 20260406
+---
+- granular adj. 颗状的；含颗粒的
+- adj. grainy | coarse | granulated
+---
+- scruple n./vi. 踌躇，顾虑
+- n. qualm | misgiving
+- v. hesitate
+---
+- convex adj. 凸出的
+- adj. protuberant | bulging
+---
+- laudable adj. 值得赞美的，值得称赞的
+- adj. commendable | creditable | admirable | meritorious | praiseworthy
+---
+- hypothesize v. 假定，假设
+- v. assume | postulate | premise | presume | suppose
+---
+- sleigh n. 雪橇
+- n./v. toboggan | bobsled | bobsleigh | sled
+---
+- stature n. 身材，身高；地位，声望
+- n. reputation | repute | standing | status | position | pestige
+---
+- canal n. 运河；沟渠；（动植物体内的）管，道
+- n. aqueduct | channel | watercourse | waterway
+---
+- sapphire n./adj. 天蓝色；蔚蓝色，蓝宝石
+- n./adj. blue
+---
+- barber n./v. 理发；理发师 （ for men）
+- n. hairdresser （for human）| hairstylist | stylist
+---
+
 #### 20260405
 - - - - - 
 - crossing n. 十字路口；过境处；交叉点；穿越

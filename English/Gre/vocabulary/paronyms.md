@@ -1,3 +1,65 @@
+#### 20260406
+---
+- granular adj. 颗状的；含颗粒的
+- granite n. 花岗岩
+- gravel n. 碎石
+- granule n. 颗粒
+- grainy adj. 多粒的
+---
+- scruple n./vi. 踌躇，顾虑
+- scrupulous adj.  仔细的，一丝不苟的，审慎正直的
+- scrutiny n. 仔细观察，详细审查
+- scrutinize v. 仔细查看
+---
+- convex adj. 凸出的
+- biconvex adj. 双面凸出的
+- convene v. 召集，集合
+- concave adj. 凹的
+- annex v. 强占
+- vex vt. 恼怒
+---
+- laudable adj. 值得赞美的，值得称赞的
+- laud v. 称赞，赞美
+- audible adj. 听得见的
+- plausible adj. 似乎是真的
+- applaud v. 鼓掌
+---
+- hypothesize v. 假定，假设
+- hypothesis n. 假说；猜测
+- hypothetical adj. 基于假设的
+- synthesize v. 通过化学或生物反应合成
+- hypocrisy n. 伪善
+---
+- sleigh n. 雪橇
+- sled n. 雪橇
+- sledge n. 雪橇，大锤
+---
+- stature n. 身材，身高；地位，声望
+- statute n. 法令，法规
+- saturate v. 湿透，浸透
+- statue n. 雕像
+- status n.身份
+---
+- canal n. 运河；沟渠；（动植物体内的）管，道
+- canalize v. 变直，把（河流）改建成运河，把（情绪）引向某一渠道
+- camel n. 骆驼
+- cancel v. 取消
+- channel n. 频道
+---
+- sapphire n./adj. 天蓝色；蔚蓝色，蓝宝石
+- sap n. （植物的）汁，液
+- sophomore n. <美>（高中或大学的）二年级学生
+- aquamarine n. 海蓝宝石；碧绿色
+- ruby 红宝石，jade 玉；diamond 钻石；gold 黄金；agate 玛瑙；pearl 珍珠；crystal 水晶；coloured glaze 琉璃；platinum 白金；jewelry珠宝
+---
+- barber n./v. 理发；理发师 
+- border n. 国境，边界
+- harbor n. 港，海港
+- bribe n. 贿赂
+- barbecue n. 户外烧烤
+- bubble n. 气泡
+---
+
 #### 20260405
 - - - - - 
 - crossing n. 十字路口；过境处；交叉点；穿越

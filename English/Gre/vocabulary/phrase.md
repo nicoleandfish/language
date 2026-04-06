@@ -1,3 +1,24 @@
+#### 20260406
+---
+- convex mirror 凸面镜
+	- This is a convex mirror.
+- convex lens 凸透镜
+	- Just as a double convex lens enlarges, so a double concave lens reduces.正象双凸透镜可以放大那样，双凹面镜也可以缩小
+---
+- sleigh bells 雪橇铃
+	- I could hear the sleigh bells jingling in the distance.
+---
+- ear canal 耳道
+	- The doctor examined her ear canal to check for any blockages.
+- root canal (牙)根管
+	- I had to get a root canal because of a severe toothache.
+- birth canal 产道
+	- The baby travels through the birth canal during childbirth.在分娩过程中，婴儿通过成产道来到世界上。
+- by canal 合到运输
+---
+
+---
+
 #### 20250405
 - - - - - 
 - border crossing 边境渡口，过境处

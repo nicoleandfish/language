@@ -70,7 +70,7 @@ We have to consider the social and economic context.
 - Imposing stiff punishment is an effective method to reduce crime.
 #### 63、我们的环境还是很糟糕
 - Our environment is still **in a dire state.**
-#### 64、因为失业率高涨，大学生干到有压力而努力学习
+#### 64、因为失业率高涨，大学生感到有压力而努力学习
 - Undergraduates feel under increasing pressure to study hard, because of the soaring unemployment rate.
 #### 65、种族歧视仍然很严重
 - Racial discrimination remains a serious problem.
