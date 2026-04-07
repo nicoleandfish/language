@@ -1,3 +1,26 @@
+#### 20260407
+---
+- sober adj. 清醒的；持重的；（颜色）素净的 v. （使）清醒
+- sobering adj. 令人警醒的
+- sob v. 啜泣，抽噎
+- solar adj. 太阳的
+- solemn adj. 表情严肃的
+- sane adj. 心智健全的
+---
+- hammer v./n. 捶打，锤子
+- hammering n. 敲打声，挫败，严厉批评
+- ham n. 火腿
+- harm n. 伤害
+- helmet n. 头盔
+- hamburger adj. 谦虚的
+- humble adj. 谦虚的
+- harmony n. 和声，谦虚
+---
+- compass n. 罗盘，指南针；圆规；范围
+- encompass v. 包含，包围
+- compose v. 组成
+---
+
 #### 20260406
 ---
 - granular adj. 颗状的；含颗粒的

@@ -1,3 +1,15 @@
+#### 20260407
+---
+- sober adj. 清醒的；持重的；（颜色）素净的 v. （使）清醒
+- adj. clearheaded | serious | plain
+---
+- hammer v./n. 捶打，锤子
+- v. beat | pound
+---
+- compass n. 罗盘，指南针；圆规；范围
+- v. surround | understand
+---
+
 #### 20260406
 ---
 - granular adj. 颗状的；含颗粒的

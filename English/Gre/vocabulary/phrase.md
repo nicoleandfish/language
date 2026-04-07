@@ -1,3 +1,23 @@
+#### 20260407
+---
+- sober up 清醒起来
+	- I went for a walk to try to sober up.
+- as sober as a judge 一点不醉的；非常清醒的；十分镇静严肃的
+	- A driver should be as sober as a judge. 开车人应该头脑清醒。
+- a sobering fact 不争的事实
+---
+- <span style="color: red;">hammer out</span> 锤平；消除分歧；推敲出；得出答案；详细讨论
+	- The hammered out the dents in the metal sheet. 他们把金属薄板上的凹痕敲平
+- under the hammer 被拍卖
+	- This vase is going to come under the hammer.
+- hammer away 苦心研究
+	- That lessons is not easy, but hammer away at it and you will get it right.
+- hammer home 给以深刻的印象
+- hammer and tongs 竭尽全力地，拼命地；闹哄哄的
+- hammer at 锤击，反复敲打
+- up to the hammer 第一流的，极好的
+---
+
 #### 20260406
 ---
 - convex mirror 凸面镜
@@ -15,8 +35,6 @@
 - birth canal 产道
 	- The baby travels through the birth canal during childbirth.在分娩过程中，婴儿通过成产道来到世界上。
 - by canal 合到运输
----
-
 ---
 
 #### 20250405
