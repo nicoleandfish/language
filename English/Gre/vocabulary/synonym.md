@@ -1,3 +1,19 @@
+#### 202260408
+---
+- <span style="color: red;">burgeon</span> vi. 迅速成长，发展
+- v. boom | mushroom | proliferate | snowball
+- n. bug | sprout
+- 近义词 = increase | argument | expand | heighten | multiply
+- 反义词 subside | wither | subdue | wane | waste away
+---
+- subscribe v. 订阅；订购；签署；同意；认捐；捐助
+- v. acquiesce | agree | assent | consent | accede
+---
+- lax adj. 懒散的；不严格的；马虎的 (relax)
+- adj. careless | negligent | neglectful | slack
+- n. lacrosse
+---
+
 #### 20260407
 ---
 - sober adj. 清醒的；持重的；（颜色）素净的 v. （使）清醒

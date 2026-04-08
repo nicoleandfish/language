@@ -1,3 +1,18 @@
+#### 202260408
+---
+- subscribe to 订阅，支持，同意，捐赠
+	- Could you subscribe to our newspaper?
+- subscribe for 订购
+	- I always subscribe for the monthly magazine.
+---
+- employ in 从事于（花时间在）
+	- He has been employed in the banking industry for over twenty years.
+- to employ 雇佣
+	- If you ask me to finish the work in time, I have to employ as assistant.
+---
+
+---
+
 #### 20260407
 ---
 - sober up 清醒起来

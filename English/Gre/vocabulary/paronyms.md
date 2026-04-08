@@ -1,3 +1,17 @@
+#### 202260408
+---
+- burgeon vi. 迅速成长，发展
+- surgeon n. 外科医生
+---
+- subscribe v. 订阅；订购；签署；同意；认捐；捐助
+- subscription n. 订阅；定期捐款；会员费
+- describe v. 描述
+- prescribe v. 给...开药
+- substitute n. 替代品
+---
+
+---
+
 #### 20260407
 ---
 - sober adj. 清醒的；持重的；（颜色）素净的 v. （使）清醒

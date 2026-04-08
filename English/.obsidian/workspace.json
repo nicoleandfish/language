@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,10 +212,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d83eb4ab95e7a205",
+  "active": "6e57cbe4ae2a96e9",
   "lastOpenFiles": [
-    "Gre/vocabulary/synonym.md",
     "Gre/vocabulary/phrase.md",
+    "Gre/vocabulary/synonym.md",
     "Gre/vocabulary/paronyms.md",
     "Gre/translation.md"
   ]
