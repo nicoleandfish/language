@@ -1,4 +1,78 @@
-#### 202260408
+#### 20260409
+---
+- elite school 精英学校
+	- He graduated from an elite school and get a high-paying job.
+- the elite of society 社会名流
+---
+- air a quilt 晒被子
+---
+- lobby sb. for sth. 游说某人做某事
+---
+- station wagon 【汽】旅行车
+	- Neither the truck nor the station wagon will be there。
+- off the wagon 开戒酒
+	- After the birth of his daughter, he had a night off the wagon to celebrate.
+- on the wagon 戒酒
+	- He decided to go on the wagon.
+- railway wagon 铁路车辆，车皮
+---
+- mushroom local GDP 快速增长GDP的地方
+---
+- in evidence 可看见的；显眼的；作为证据的
+	- Trim lawns are everywhere in evidence. 到处都可以看见整洁漂亮的草地。
+- circumstantial evidence 旁证，间接证据
+	- You can't convict a man of a crime on circumstantial evidence alone.不能只靠旁证就判定一个人有罪。
+- give evidence 举证，提供证据
+	- In court, witnesses are called to give evidence to support the case being presented. 在法庭上，证人被传唤提供证据来支持所提出的案件
+- historical evidence 历史上的证据
+- parol evidence 口头证据
+- hearsay evidence 【法】传闻证据
+- on the evidence of 根据...来看...
+---
+- evocative and informative 发人深省且内容丰富
+---
+- enlisted man 士兵
+	- He was an enlisted man in the army.
+- enlist in 使入伍
+- enlist in/for 获得；获得...支持
+---
+- household appliances 家用电器
+- appliance store 家用电器商店
+- electrical appliance shop 电器商店
+---
+- remind of 提醒；使记起
+	- You remind me of your father when you say that. 你说这样的话，让我想起了你的父亲。
+- that reminds me 提醒了我；我想起来了
+	- Oh, that reminds me. I have to go see my doctor.
+- remind someone of something 提醒某人某事
+----
+- personnel manager 人事主管人
+- military personnel 军事人员
+- personnel policy 人事政策
+	- American foreign policy; the company's personnel policy.
+- personnel flow 人员流动
+- scientific research personnel 科研人员
+- security personnel 安保人员
+---
+- anti-fake label 防伪标签
+	- Please make sure to check for the anti-fake label ont he product before purchasing.
+- blank label 空白标签
+	- I need to fill in the blank label on this form.
+---
+- allocate money to (=invest in )拨款给...
+	- The government decided to allocate money to education and healthcare sectors this year.
+- allocate shares 分配股份
+	- The company will allocate shares to its employees as part of their compensation package.
+---
+- a small leak will sink a great ship. 小洞不补，大洞吃苦
+- take/do/have a leak 撒尿，小便
+---
+- kerosene lantern 煤油灯
+---
+
+---
+
+#### 20260408
 ---
 - subscribe to 订阅，支持，同意，捐赠
 	- Could you subscribe to our newspaper?

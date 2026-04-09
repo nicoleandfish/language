@@ -1,4 +1,60 @@
-#### 202260408
+#### 20260409
+---
+- artistic adj. 艺术的
+- artifact n. 人工制品
+- artificial adj. 人工的
+- articulate v. 明确表达
+- artist n. 艺术家
+---
+- elite adj. 卓越的 n. 精英
+- exile n. 流放
+- elicit v. 引出，得到
+- elect v. 选举
+- eliminate v. 剔除
+---
+- negligent adj. 忽略的；疏忽的；粗心大意的
+- negligence n. 过失，疏忽，失职，失误
+- negligible adj. 微不足道的
+- neglect v. 疏于照顾的
+- neglectful adj. 马虎的
+---
+- quilt v. 缝被；缝制 n. 被褥
+- quiet adj. 轻声的
+- quit v. 停止
+- quite adv. 相当
+- guilty adj. 内疚的
+---
+- lobby n. 门厅；休息室；游说 v. 游说（从政者或政府）
+- lobbyist n. 说客
+- lorry n. 卡车
+- shabby adj. 破旧的
+- lodge v.  固定
+- lottery n. 乐透，博彩
+---
+- troupe n. 剧团；马戏团；芭蕾舞团
+- tropic n. 热带
+- grope v. 摸索
+- tribe n. 部落，宗族
+- tribute n. 礼物，颂词
+- troop n. 部队
+---
+- synthetic adj. 合成的；人造的
+- synthesize v. 合成
+- synthesis n. 综合体
+- sympathetic adj. 同情的
+- aesthetic adj. 审美的
+- systematic adj. 有系统的
+- authentic adj. 原作的
+- syndrome n. 综合征
+---
+- allocate vt. 分配，分派
+- advocate v. 拥护
+- allegation n. 说法，指控
+---
+
+---
+
+#### 20260408
 ---
 - burgeon vi. 迅速成长，发展
 - surgeon n. 外科医生

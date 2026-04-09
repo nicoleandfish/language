@@ -1,4 +1,57 @@
-#### 202260408
+#### 20260409
+---
+- elite adj. 卓越的 n. 精英
+- n. A-list | best | prime | cream of the crop
+---
+- negligent adj. 忽略的；疏忽的；粗心大意的
+- adj. careless | disregardful | lax | neglectful | remiss | slack
+---
+- quilt v. 缝被；缝制 n. 被褥
+- n. mattress褥子| sheet 床单
+---
+- lobby n. 门厅；休息室；游说 v. 游说（从政者或政府）
+- n. hall | foyer
+---
+- mushroom n. 蘑菇 vi. 迅速成长
+- v. boom | mount | increase | proliferate | snowball | roll up
+---
+- troupe n. 剧团；马戏团；芭蕾舞团
+- n. band | company
+- v. tour
+---
+- evidence vt. 证明 n. 证据；迹象；根据
+- n. attestation | confirmation | corroboration | proof | testimony | witness
+---
+- informative adj. 提供信息的；见闻广播的
+- adj. informatory | instructive
+---
+- ascertain v. 查明；弄清
+- v. discover | find out
+---
+- synthetic adj. 合成的；人造的
+- adj. artificial | man-made
+---
+- appliance n. 器具；器械；应用
+- n. gadget | contraption | contrivance | gizmo | widget
+---
+- skeptical adj. （=sceptical）怀疑的
+-  adj. distrustful | incredulous | suspicious | unbelieving
+---
+- allocate vt. 分配，分派
+- v. allot | assign | distribute
+---
+- delectable adj. 美味可口的；赏心悦目的；有吸引力的
+- adj. delicious | luscious | nice | palatable | savory | tasty
+---
+- kerosene n. 煤油，火油
+- n. paraffin
+---
+- curative adj. 有助于治疗的，有疗效的 n. 药物
+- adj. medicinal | healing | restorative | therapeutic
+- n. medicine
+---
+
+#### 20260408
 ---
 - <span style="color: red;">burgeon</span> vi. 迅速成长，发展
 - v. boom | mushroom | proliferate | snowball
