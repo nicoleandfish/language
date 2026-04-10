@@ -1,3 +1,30 @@
+#### 20260410
+---
+- awful adj. 可怕的；难过的；极坏的；非常的；庄严的 adv. 极其
+- adj. abhorrent | abominable | appalling | offensive | disgusting
+- adv. very | badly | deadly | desperately
+----
+- opportunity n. 机会
+- n. break | chance | occasion
+---
+- inherent adj. 内在的，固有的
+- adj. inborn | intrinsic | innate | native
+---
+- dissolve v. 溶解；解散；解除
+- v. disappear | dematerialize | fade | melt
+---
+- flick v. 轻拍；移动 n. 轻拍；浏览
+- v. dart | flit | zip
+- n. movie | picture | strike
+---
+- rivals n. 竞争对手；可与之相比的人 v. 与...竞争 adj. 竞争的
+- n. competitor | opponent
+- v.  battle | contend | flight | compete | vie | face off
+---
+- contributory adj. 贡献的
+- adj. conducive | contributive
+---
+
 #### 20260409
 ---
 - elite adj. 卓越的 n. 精英

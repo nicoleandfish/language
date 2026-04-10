@@ -1,3 +1,76 @@
+#### 20260410
+---
+- Census Bureau 人口调查局
+	- The Census Bureau collects data on the population of a country.
+- census form 普查表
+	- I filled out the census form and returned it to the government.
+- census data 人口普查数据
+	- The government collects census data every ten years to gather information about the population.
+- decennial census 十年一次的人口普查
+---
+- light at the end of the tunnel （历尽艰辛之后终于看到的）成功之望；康复可能
+	- I have been ill for nearly a year, but I am beginning to sense light at the end of the tunnel.
+- wind tunnel （试验飞机等用的）风洞
+	- The engineers tested the aerodynamics of the car in a wind tunnel.
+---
+- seize/grasp the opportunity  抓住机会
+	- We should seize the opportunity to counterattack. 
+- at every opportunity 利用一切机会
+	- He took the lead in defending the President at every opportunity.
+- at the earliest opportunity 一有机会
+	- Contact us at the earliest opportunity.
+- at the first opportunity 一有机会
+- golden opportunity 绝好的机会
+- equal opportunities 均等机会
+- equal opportunities employer 提供均等机会的雇主
+- opportunity cost 机会成本
+- equal employment opportunity 工作均等机会
+- opportunity knocks only once 千载难封的机会
+---
+- personal abuse 人生攻击
+- personal assistance私人秘书
+- personal effects 【法】个人财产
+- personal best （运动员）个人最佳成绩
+- personal space 个人空间
+- personal file 个人档案
+- personal trainer 私人健身教练
+- personal check 私人支票
+- personal opinion 个人见解
+---
+- inherent in 固有
+	- Creativity is inherent in every child and should be encouraged. 创造力是每个孩子与生俱来的，应该得到鼓励。
+---
+- dissolve Parliament 解散议会
+	- The Prime Minister has the power to dissolve Parliament and call for new elections. 首相有权利解散议会并举行新的选举
+- dissolve into 溶入
+	- The sugar dissolves into the hot water.
+---
+- chick flick 文艺爱情片
+- slasher flick 惊悚电影
+- flick one's finger at a person 朝某人弹指
+---
+- purple yam 紫薯
+- born to the purple 生于皇室
+---
+- main rivals 主要竞争对手
+- political rivals 政敌
+- business rival 商业上的竞争对手
+- without a rival 战无敌手
+---
+- freight train
+- freight charge
+- freight prepaid 运费先付
+	- The company always arranges for freight prepaid when shipping goods to international customers.
+- ad valorem freight 从价运费
+- air freight 空中货运（费）
+- freight outward 运出运费，销货运费
+- dead freight （包船位装货不满时应付的）空舱运费
+- freight collect 运费到付
+- ocean freight rate 海运运费
+---
+
+---
+
 #### 20260409
 ---
 - elite school 精英学校

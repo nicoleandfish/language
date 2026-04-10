@@ -1,3 +1,40 @@
+#### 20260410
+---
+- nominee n. 被提名者
+- nominal adj. 名义上的
+- nomination n. 推荐
+- nominator n. 提名者
+---
+- tunnel n./v. 隧道；挖隧道
+- channel n. 海峡
+- runnel n. 小河，沟渠
+---
+- inherent adj. 内在的，固有的
+- inhere v. 原有，固有
+- coherent adj. 有条理的
+- inherit v. 继承
+- inheritance n. 继承物，遗物
+- instinct n. 本能
+---
+- dissolve v. 溶解；解散；解除
+- dissolution n. 解体，分裂；解除；终止
+---
+- flick v. 轻拍；移动 n. 轻拍；浏览
+- flicker v. 闪烁，摇曳，颤动，闪现
+- slick adj. 熟练的
+- flip v. 快速翻转
+- flake n. 小薄片
+- flap n. 片状悬垂物
+---
+- rivals n. 竞争对手；可与之相比的人 v. 与...竞争 adj. 竞争的
+- rivalry n. 竞争，较量
+- revival n. 复兴，复苏
+- revive v. 复原
+- trail n. 痕迹
+---
+
+---
+
 #### 20260409
 ---
 - artistic adj. 艺术的
@@ -52,8 +89,6 @@
 - allegation n. 说法，指控
 ---
 
----
-
 #### 20260408
 ---
 - burgeon vi. 迅速成长，发展
@@ -64,8 +99,6 @@
 - describe v. 描述
 - prescribe v. 给...开药
 - substitute n. 替代品
----
-
 ---
 
 #### 20260407

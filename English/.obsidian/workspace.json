@@ -49,8 +49,7 @@
               "title": "paronyms"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,11 +211,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "6e57cbe4ae2a96e9",
+  "active": "582dd0e4a9a797b7",
   "lastOpenFiles": [
-    "Gre/vocabulary/phrase.md",
     "Gre/vocabulary/synonym.md",
     "Gre/vocabulary/paronyms.md",
+    "Gre/vocabulary/phrase.md",
     "Gre/translation.md"
   ]
 }
