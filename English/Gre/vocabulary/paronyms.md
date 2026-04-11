@@ -1,3 +1,66 @@
+#### 20260411
+---
+- parameter n. 参数；界限
+- barometer n. 气压计
+- parasite n. 寄生植物（或动物），寄生虫
+- diameter n. 直径
+- parachute n. 降落伞
+- parade n. 有幸
+- paralyze vt. 使麻痹
+- paradise n. 天堂
+- parallel adj. 平行的
+- paradigm n. 典范
+- paradox n. 矛盾的人
+---
+- mottled adj. 有杂色的，斑驳的
+- mottle n. 斑点；斑驳病；杂色绒线[毛纱]
+- mortal adj. 终有一死的
+---
+- underlying adj. 潜在的；基础的
+- underlie vt. 构造...的基础
+- underline v. 在...下面画线
+- underscore v. 强调，在...下面画线
+- undermine v. 逐渐削弱
+- undergo v. 经历
+- underneath prep. 在...下面
+- undertake v. 承担，从事
+---
+- score v. 评分，赢得，取得，做记号，编写总谱 n. 得分，成绩，比分，伤痕，二十
+- chore n. 家务杂活
+- sore adj. 疼痛的
+- core n. 果核
+- corn n. 谷物
+---
+- concur v. 同时发生；意见一致
+- contour n. 轮廓，外形；周线
+- concurrent adj. 并存的，同时发生的
+- incur v. 带来（成本，花费）
+- recur v. 再发生
+---
+- neutron n. 中子
+- electron n. 电子
+- proton n. 质子
+- atom n. 原子
+- nitrogen n. [化学]氮
+- nurture v. 培养，促进
+- neutralize v. 使失效
+- neutrality n. 中立
+---
+ - eloquent adj. 雄辩的；动人的
+ - elocute v. 演说
+ - eloquence n. 流利的口才，流畅的文笔
+ - equivalent adj. 等同的
+ - cogent adj. 有说服力的
+---
+- foul adj. 令人不快的；很坏的 v. 弄脏；犯规；缠住 adv. 碰撞地；争执不和地；犯规地
+- foil n. 箔
+- flour n. 面粉
+---
+- friction n. 摩擦；分歧
+- fraction n. 分数，小数
+- fiction n. 小说
+---
+
 #### 20260410
 ---
 - nominee n. 被提名者
@@ -31,8 +94,6 @@
 - revival n. 复兴，复苏
 - revive v. 复原
 - trail n. 痕迹
----
-
 ---
 
 #### 20260409
@@ -299,7 +360,7 @@
 - commerce n. 商业
 - - - - - 
 - herald v. 是（某事）的前兆；预示；宣布（好或重要的事）n. 预兆；信使
-- unheraldld adj. 未曾提及的，突如其来的，突然发生的
+- unheralded adj. 未曾提及的，突如其来的，突然发生的
 - herd n. 兽群
 - shield n. 盾牌
 - hazard n. 危险

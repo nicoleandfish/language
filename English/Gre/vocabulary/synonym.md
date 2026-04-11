@@ -1,3 +1,34 @@
+#### 20260411
+---
+- mottled adj. 有杂色的，斑驳的
+- adj. blotchy | spotted | speckled | piebald | dappled
+---
+- assign v. 布置；分配
+- v. task | allocate | appoint | designate | name | nominate
+---
+- underlying adj. 潜在的；基础的
+- adj. latent | fundamental | ultimate | essential
+---
+ - eloquent adj. 雄辩的；动人的
+ - adj. articulate | fluent | silver-tongued | well-spoken
+---
+- compute v. 计算，估算
+- v. cipher | calculate | figure | reckon | work out
+---
+- foul adj. 令人不快的；很坏的 v. 弄脏；犯规；缠住 adv. 碰撞地；争执不和地；犯规地
+- adj. dirty | nasty | evil | filthy | sordid | repugnant 
+- v. befoul | begrime | bemire | distain | dirty
+---
+- hypothesis n. 假说；猜测
+- n. supposition | speculation
+---
+- adhere v. 附着；坚守
+- v. stick | cling
+---
+- friction n. 摩擦；分歧
+- n. conflict | discord | discordance | dissent | strife
+---
+
 #### 20260410
 ---
 - awful adj. 可怕的；难过的；极坏的；非常的；庄严的 adv. 极其

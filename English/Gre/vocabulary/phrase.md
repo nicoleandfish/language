@@ -1,3 +1,55 @@
+#### 20260411
+---
+- process parameters 工艺参数，过程参数
+	- The process parameters need to be carefully adjusted to achieve optimal results. 过程参数需要仔细调整以达到最佳效果。
+- with the parameter of 受到...的限制
+---
+- assign to 分配给，分派给
+	- He is not supposed to assign tasks to me directly. 他不应该直接分配任务给我
+- be assigned to  归属于，被指派
+	- Jane wishes that she should be assigned to another job.
+- to assign priority according to seniority 按资排辈
+	- In our company, we tend to assign priority according to seniority, which helps maintain a sense of respect and order. 在我们公司，我们倾向于根据资历分配优先权，这有助于维护一种尊重和秩序感。
+---
+- underlying market 基础市场
+---
+- scores of 很多
+---
+- concur with 与...一致 concur with sb. in sth.
+	- I concur with the speaker in condemning what has been done.  我同意发言者对所做的事加以谴责
+- concurring opinion 并存意见
+	- In the court case, the judge wrote a concurring opinion to express their agreement with the majority decision. 在这个法庭案件中，法官写了一份并存意见，以表达他们对多数决定的赞同。
+---
+- neutron star 【天】中子星
+	- A neutron star is a celestial object that is formed from the remnants of a massive star after a supernova explosion. 中子星是一种天梯物体，它是在超新星爆炸后由巨大恒星的残骸形成的。
+---
+- abound in 富于
+	- Birds abound in the woods. 鸟儿在树林里到处都是。
+- abound with 充满
+	- The ship abounds in conveniences, but abounds with rats. 那船上方便的设备很多，可是耗子也很多。
+- bound to 不得不
+---
+- be eloquent of 表明
+---
+- fall foul of 与...相撞；与...发生冲突、争吵；冒犯
+	- The two boys fell foul of one another in turning a corner.
+- foul up 弄脏；污染；把...搞乱；阻塞；入歧途；陷入困境
+	- Why do some people foul up and become criminals?
+- foul play 谋杀罪行
+	- The investigation found no evidence of foul play in his death. 调查发现他的死亡没有谋杀的证据。
+- foul line 边线，罚球线
+- foul ball 界外球
+- by fair means of foul 不择手段
+---
+- adhere to 坚持，遵守
+	- This glue does not adhere to plastic.
+---
+- cause friction (人际关系)导致小的摩擦
+	- His constant criticism tends to cause friction within the team. 他不断地批评往往会在团队内部引发小摩擦
+- family friction 家庭的不合
+- friction-free 无摩擦的
+---
+
 #### 20260410
 ---
 - Census Bureau 人口调查局
@@ -67,8 +119,6 @@
 - dead freight （包船位装货不满时应付的）空舱运费
 - freight collect 运费到付
 - ocean freight rate 海运运费
----
-
 ---
 
 #### 20260409
