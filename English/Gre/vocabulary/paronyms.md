@@ -1,3 +1,13 @@
+#### 20260412
+---
+- concentric adj. 同心的
+- eccentric adj. 古怪的
+---
+- sweeping adj. 彻底的；<贬>笼统的，一概而论的 n. 清扫；垃圾
+- sweep v. 扫除；掠过，席卷
+- weep v. （通常因为悲伤）哭泣
+---
+
 #### 20260411
 ---
 - parameter n. 参数；界限

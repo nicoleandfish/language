@@ -1,3 +1,16 @@
+#### 20260412
+---
+- concentric adj. 同心的
+- adj. homocentric
+---
+- sweeping adj. 彻底的；<贬>笼统的，一概而论的 n. 清扫；垃圾
+- adj. general | fundamental | broad | extensive 
+- n. waste | litter | trash | rubbish | garbage
+---
+- rebellious adj. 反叛的；叛乱的
+- adj. insurgent | insurrectionary | mutinous
+---
+
 #### 20260411
 ---
 - mottled adj. 有杂色的，斑驳的

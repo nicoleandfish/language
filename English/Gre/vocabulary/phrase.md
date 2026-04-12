@@ -1,3 +1,16 @@
+#### 20260412
+---
+- concentric circles 【数】同心圆
+	- The figure bounded by and containing the area between two concentric circles.
+---
+- sweeping reforms 彻底的改革
+	- The government implemented sweeping reforms to improve the education system. 政府实施了全面的改革，以改善教育体系
+- sweeping way across the world 席卷全球
+- tomb sweeping Day 清明节
+---
+- rebellious teenagers 叛逆的青少年
+---
+
 #### 20260411
 ---
 - process parameters 工艺参数，过程参数
