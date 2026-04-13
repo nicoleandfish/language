@@ -1,3 +1,24 @@
+#### 20260413
+---
+- prelude n. 前奏曲，序幕
+- n. overture | prologue | intrada
+- v. prologuize
+---
+- potency n. 影响力，支配力；效力
+- n. power | influence
+---
+- repress vt. 克制；镇压
+- v. crush | silence | subdue | suppress | clamp down | crack down
+---
+- influential adj. 有权势的
+- adj. authoritative
+---
+- resort v. 诉诸；求助；凭借；前往；常去 n. 旅游胜地；常去之地；诉诸；求助对象；采用的手段
+- n. haunt | purlieu | hangout | stamping ground
+---
+
+---
+
 #### 20260412
 ---
 - concentric adj. 同心的

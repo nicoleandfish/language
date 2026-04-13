@@ -1,3 +1,16 @@
+#### 20260413
+---
+- repress vt. 克制；镇压
+- repressive adj. 压制的，压抑的，严厉的
+- depress v. 使抑郁
+- oppress v. 压迫
+- repression n. 镇压
+- compress v. 压缩，压紧
+- suppress v. (用武力)镇压
+---
+
+---
+
 #### 20260412
 ---
 - concentric adj. 同心的

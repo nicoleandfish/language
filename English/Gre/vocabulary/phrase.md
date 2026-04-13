@@ -1,3 +1,39 @@
+#### 20260413
+---
+- extreme potency 高效
+---
+- repressed guy 感情内敛的人
+---
+- resort to 诉诸；求助于
+	- If other means fail we shall resort to force. 如果其他手段均告失败，我们将诉诸武力。
+- summer resort 避暑地
+	- The island is noted for its summer resort.
+- health resort 休养地
+	- I think a month at a health resort will do you good.
+- last resort 终极手段
+- as a last resort 作为最后的一招
+- resort island旅游胜地的岛屿
+- resort town 旅游胜地
+---
+- by a canvas (划船比赛中)以毫厘之差
+	- win by a canvas
+- press of canvas 满帆
+	- The yachts speed along the course under their press of canvas. 游艇张着满帆沿航道全速前进
+- under canvas 在帐篷里；在战场营地；扬着帆
+	- sleep under canvas 野地宿营
+- canvas shoes 帆布鞋
+- canvas bag 帆布包
+---
+- cling to 抱住；紧抓
+	- Wet clothes cling to the body.
+- a clinging vine 依赖男人的孤苦妇女
+	- The boy students dislike going any where with her because she is such a clinging vine.
+- clinging vine <美俚>惯于依靠男人的妇女
+	- Henry doesn't want his wife to be a clinging vine.
+- cling film 保鲜膜
+- cling to the hope 坚信
+---
+
 #### 20260412
 ---
 - concentric circles 【数】同心圆
