@@ -1,3 +1,44 @@
+#### 20260415
+---
+- liquefy v. 使溶解，融化
+- v. melt | thaw | dissolve
+---
+- waggle n./v. 摆动
+- v. wag | swing | oscillate
+---
+- hind adj. 后面的
+- adj. back | posterior | rear | hinder
+- n. doe
+---
+- irregular adj. 不规则的；不整齐的；不合常规的
+- adj. aberrant | abnormal | anomalous | deviant
+---
+- imply v. 暗示；说明；使有必要
+- v. allude | hint | indicate | infer | insinuate | suggest
+---
+- steer v. 引导，控制，操控；驾驶 n. 建议，劝告
+- v. conduct | direct | guide | pilot | lead | control
+---
+- sentimental adj. 情感的；伤感的，多愁善感的
+- adj. soppy | emotional | tender
+---
+- tavern n. 小旅馆，客栈；小酒店
+- n. pub | inn | bar | saloon
+---
+- ornate adj. 华丽的
+- adj. florid
+---
+- oblong adj. 矩形的；椭圆形的 n. 矩形；椭圆形
+- adj. quadrilateral | rectangular
+- n. quadrilateral | rectangle
+---
+- depose vt. 革除，罢免，废黜
+- v. defrock | deprive | dethrone | oust
+---
+- dive vi. 跳水；潜水；扑向 n. 跳水；潜水
+- v./n. plunge
+---
+
 #### 20260413
 ---
 - prelude n. 前奏曲，序幕

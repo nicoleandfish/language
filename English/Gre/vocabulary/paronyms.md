@@ -1,3 +1,58 @@
+#### 20260415
+---
+- waggle n./v. 摆动
+- giggle v. 咯咯地笑
+- waver vi. 摇曳
+- wiggle vt. 摆动
+---
+- bagel n. 面包圈（贝果）
+- barge n. 驳船
+---
+- orchid n. 兰花
+- orchard n. 果园
+---
+- steer v. 引导，控制，操控；驾驶 n. 建议，劝告
+- sheer adj. 纯粹的
+- steep v. 搅拌，搅和
+- stare v. 凝视
+- sheet n. 床单
+- stale adj. （食物）不新鲜的
+---
+- receptor n. 感受器；受体
+- receptacle n. [植]花托
+---
+- sentimental adj. 情感的；伤感的，多愁善感的
+- sentiment n. 观点，看法
+- sensational adj. 轰动的
+- sensitive adj. 过敏的
+---
+- tavern n. 小旅馆，客栈；小酒店
+- cavern n. 洞穴
+- raven n. 掠夺
+---
+- ornate adj. 华丽的
+- innate adj. 先天的，固有的
+---
+- oblong adj. 矩形的；椭圆形的 n. 矩形；椭圆形
+- polygon n. 多边形
+- oval n. 椭圆，椭圆形跑道 adj. 卵形的
+---
+- depose vt. 革除，罢免，废黜
+- deport vt. 驱除（非本国居民）出境
+---
+- dive vi. 跳水；潜水；扑向 n. 跳水；潜水
+- dine v. 进餐
+- dove n. 鸽子
+---
+- cliff n. 悬崖
+- sniff v. 以鼻吸气，抽鼻子
+- stiff adj.（肌肉或关节）酸痛的
+- chill n. 寒冷
+- bluff n. 断崖 adj. 直率的 vi. 吹牛 vt. 以虚张声势达成
+- --
+- 
+---
+
 #### 20260413
 ---
 - repress vt. 克制；镇压
@@ -7,8 +62,6 @@
 - repression n. 镇压
 - compress v. 压缩，压紧
 - suppress v. (用武力)镇压
----
-
 ---
 
 #### 20260412

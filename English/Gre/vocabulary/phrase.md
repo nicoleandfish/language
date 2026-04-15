@@ -1,3 +1,38 @@
+#### 20260415
+---
+- hind leg 后腿
+	- The horse injured its right hind leg during the race. 这匹马在比赛中伤到了右后腿
+- talk a donkey's/dog‘s hind leg off 说话滔滔不绝
+	- She would talk a donkey's/dog's hind leg off if you gave her the chance.
+---
+- a toed nail 钉歪的钉子
+---
+- horizontal surface 水平面
+	- The water in a still lake forms a perfect horizontal surface.
+- horizontal line 横线
+	- First, draw a horizontal line.
+- horizontal stabilizer 水平安定面
+	- The horizontal stabilizer helps to keep the plane level during flight.
+- horizontal bar [体]单杠，水平杠
+- horizontal deviation 水平偏差
+---
+- orchard grove 果园
+---
+- steer clear of 绕开，避开
+	- She steered clear of being associated with such people。 她避免与这种人交往。
+- steering wheel 方向盘，舵轮
+	- That novice driver was faced with a continuous flow of traffic and gripped his steering wheel nervously. 那名新手司机面对源源不断的车流时，紧张地握住方向盘
+- a bum steer 错误的知道
+	- give/sell sb. a bum steer 给某人错误的指导
+- steering device 转向器，转向装置
+- steer airplane 驾驶飞机
+- keep/stay/steer clear of sb./sth.
+---
+- for sentimental purpose 处于感情原因
+---
+- nose dive 空降
+- dive into 投入，钻研
+---
 #### 20260413
 ---
 - extreme potency 高效
