@@ -1,3 +1,16 @@
+#### 20260416
+---
+- saucy adj. 无礼的；俏皮的；漂亮的
+- adj. impudent
+----
+- mammoth adj. 巨大的 n. 猛犸，毛象
+- adj. colossal | titanic | enormous | giant | gigantic | huge 
+- n. colossus | leviathan | giant | mastodon | monster
+---
+- pocketbook n. 钱袋；财政状况
+- n. finance | notebook | handbag | purse
+- --
+
 #### 20260415
 ---
 - liquefy v. 使溶解，融化

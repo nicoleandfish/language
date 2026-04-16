@@ -1,3 +1,18 @@
+#### 20260416
+---
+- mammoth adj. 巨大的 n. 猛犸，毛象
+- moth n. 飞蛾
+---
+- artifice n. 奸计；策略
+- artifact n. 人工制品，历史文物
+- artificial adj. 人工的，人造的
+- ---
+- causal adj. 因果的，因果关系的
+- cause n. 原因，病因，理由
+- casualty n. 伤亡人员
+- casual adj. 随意的
+---
+
 #### 20260415
 ---
 - waggle n./v. 摆动
@@ -50,8 +65,6 @@
 - chill n. 寒冷
 - bluff n. 断崖 adj. 直率的 vi. 吹牛 vt. 以虚张声势达成
 - --
-- 
----
 
 #### 20260413
 ---

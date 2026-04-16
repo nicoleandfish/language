@@ -1,3 +1,29 @@
+#### 20260416
+---
+- vapor pressure 蒸气压力
+	- The vapor pressure of water increases with temperature.
+- water vapor 水汽
+	- The water vapor rises from the hot tea.
+----
+- mammoth rally 盛大集会
+- mammoth task 浩大的工作
+- ---
+- lure a man by artifice 以计诱人
+- ---
+- causal organism 病原生物
+	- The causal organism of the disease was identified as a specific type of bacteria. 这种疾病的病原生物被确定为一种特定类型的细菌。
+- causal attribution 因果归因
+	- The psychologist studies the causal attribution of the students' success or failure in order to understand their mindset. 心理学家研究了学生成功或失败的因果归因，以了解他们的心态
+- causal link 因果联系
+	- The detective found a causal link between the suspect and crime scene. 侦探发现了嫌疑人和犯罪现场之间的因果关系
+- ---
+- Prices to fit your pocketbook. 与你的财力相称的价格
+- ---
+- to a miracle 好到惊人程度，好到不可思议
+	- understand sth. to a miracle 对某事了解之透彻达到惊人的程度
+- by a miracle 依靠奇迹；奇迹般的
+- ---
+
 #### 20260415
 ---
 - hind leg 后腿
