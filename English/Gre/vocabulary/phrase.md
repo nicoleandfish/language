@@ -1,3 +1,36 @@
+#### 20260505
+---
+- domicile system 户籍管理制度
+- residence registration system 户籍管理制度
+- ---
+- thwart ambition 未酬的壮志
+- put paid to vt. 结束
+- put a stop to 制止
+- ---
+- make a mock of 嘲笑；嘲弄；糟蹋；证明...是假的
+- mock test 模拟考试
+- mock up 实体模型
+- mock at sb. 嘲笑某人
+- ---
+- relax one's grip 松开某人的掌控
+- relax a curfew 放松宵禁
+- relax one's effort 放松某人的努力
+- --
+- regional variations 地区差异
+- regional security 区域安全
+- regional stability 地区稳定
+- --
+- psychological dimension 心理维度
+- communicative dimension 交流方式
+- --
+- daily turnover 日产量
+- turnover tax 【律】营业税，【经】交易税，周转税
+- staff turnover 人员流动
+- stock turnover 库存周转率
+- capital turnover 资本周转率
+- annual turnover 年营业额
+- --
+
 #### 20260416
 ---
 - vapor pressure 蒸气压力
@@ -303,8 +336,6 @@
 - kerosene lantern 煤油灯
 ---
 
----
-
 #### 20260408
 ---
 - subscribe to 订阅，支持，同意，捐赠
@@ -316,8 +347,6 @@
 	- He has been employed in the banking industry for over twenty years.
 - to employ 雇佣
 	- If you ask me to finish the work in time, I have to employ as assistant.
----
-
 ---
 
 #### 20260407

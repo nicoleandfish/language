@@ -1,3 +1,32 @@
+#### 20260505
+---
+- domicile n. 住所
+- n. adobe | home | dwelling | habitation | house | residence
+- v. accommodate | house | lodge | settle | settle down
+- ---
+- thwart vt. 阻碍；使...受挫
+- v. balk | foil | frustrate | prevent 
+- adj. transverse
+- adv. across
+- frustrate | spoil | foil | prevent | obstruct | hinder | impede | ruin 
+- --
+- mock v. 嘲笑；嘲弄；不尊重 adj. 虚假的，模拟的
+- v. imitate | mimic | parody | spoof
+- adj. artificial | bogus | dummy | factitious | fake | simulated
+- ---
+- similarly adv. 同样的；类似于
+- adv. likewise | identically
+- ---
+- relax v. 放松；使冷静；松开
+- v. chill | unwind | wind down | hang loose | mellow out
+- ---
+- immense adj. 巨大的，广大的
+- adj. colossal | giant | gigantic | huge | mammoth | massive
+- --
+- seep v. 渗透
+- v. ooze | exude | percolate | permeate
+- --
+
 #### 20260416
 ---
 - saucy adj. 无礼的；俏皮的；漂亮的
