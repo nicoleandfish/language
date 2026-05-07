@@ -1,0 +1,33 @@
+#### 20260506
+---
+- facsimile n. 摹本，传真本，复制本 v. 复制
+	- fac-, facil-, fact-, feas-, -feat, -fect, -feit, -facient, -faction, -fic-, -fy, -ficate, -fication【拉丁】表示“做，制作”；“生产”；“形成”
+		- 词根助记：facsimile:fac+simile相同→做出相同的东西→传真
+	- simal-, simil-, simul-, -semble【拉丁】表示“相似，一样”；“似乎”；“一起”
+		- 词根助记：facsimile:fac做+simil→做成相同的=复制
+- --
+- suitable adj. 合适的；适宜的
+	- sequ-, sequi-, secut-, suit-, -sue【拉丁】表示“跟随”；“（时间上）接着的”
+		- 词根助记：suitable:su+able可……的=可追求的=合适的
+- --
+- viscous adj. 粘稠的；粘滞的
+	- visco-, visc-, viscos-, viscosi-【拉丁】表“粘的”
+		- 同根词viscous|viscosity|viscid|viscose|
+---
+- avail n. 益处，有用 v. 有帮助，有益
+	-   valid-, val-, vale-, -vail, -valent, -valence【拉丁】强有力的；良好的；值得的；力量；告别
+		- 同根词ambivalence|available|evaluate|prevail|valid|avail|availability|
+- --
+- reciprocate v. 回报，回应，沿直线往复移动
+	- reciproc-【拉丁】表示“相互的，往复的”；“来来往往”；“互惠，互利”
+		- 同根词 reciprocal|reciprocate|
+	- re-, red-【拉丁】前缀；表示“在……后面，向后的”；“再次”
+		- 同根词 repel|recognition|recapitulate|reciprocal|receipt|receive|recite|reciprocate|
+- --
+- basis n. 根据；方式；基础
+	- bas-, baso-, basi-, ba-, bat-【希腊语传入拉丁语】走；底座，基座；基础，地基
+		- 同根词base|basis|
+- --
+- motif n. 装饰图案；主题，主旨
+	- mot-, moto-, -motile, -motility, -motorial, -motoric, -motive, -motored; mov-【拉丁】表示“移动”
+		- 同根词emotion|emotional|locomotive|mobile|moment|motion|motivate|motif|

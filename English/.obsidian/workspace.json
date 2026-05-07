@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "paronyms"
             }
+          },
+          {
+            "id": "15ba161cac97dbcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gre/vocabulary/root.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "root"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 227.5
   },
   "right": {
     "id": "a4d6021bf5158218",
@@ -212,11 +226,13 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d83eb4ab95e7a205",
+  "active": "6e57cbe4ae2a96e9",
   "lastOpenFiles": [
     "Gre/vocabulary/phrase.md",
+    "Gre/vocabulary/root.md",
     "Gre/vocabulary/synonym.md",
     "Gre/vocabulary/paronyms.md",
+    "Gre/vocabulary/新建 文本文档.txt",
     "Gre/translation.md"
   ]
 }

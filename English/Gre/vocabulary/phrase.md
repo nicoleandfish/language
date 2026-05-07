@@ -1,3 +1,82 @@
+#### 20260506
+---
+- place of origin 原产地
+	- The place of origin of this wine is clearly marked on the label : Bordeaux, France.
+- certificate of origin 【商】房产证明书，产地证书
+	- The company needs to provide a certificate of origin to prove that the goods are produced in the country of export.
+- --
+- contract a disease 患某种疾病
+	- Money can't buy back your health if you contract a disease.
+- contract in 订约加入（…）；订约承担（…的）义务
+	- The company contracted in the sustainability program to meet its environmental obligations.
+- contract out 正式保证不受约束,退出合同(或协议)；立合同把(工作等)包出
+	- The hospital decided to contract out its laundry services to an external company.
+- contract with 与……签订合同
+- contract for承揽
+- breach of contract背约，违约，违反合同
+- performance contract绩效合同
+- social contract社会契约
+- labor contract劳动合同
+- consignment contract寄售合同
+- quasi contract准契约，准合同
+---
+- inheritance tax 遗产税
+	- My grandmother passed away and left me a large sum of money. However, I had to pay a significant amount of inheritance tax on it.
+- genetic inheritance 遗传学
+	- The study of genetic inheritance helps us understand how traits are passed down from parents of offspring.
+- --
+- antibiotic resistance 抗生素抗性, 抗菌素耐药性, 抗抗生素性
+	- The overuse of antibiotics has led to an increase in antibiotic resistance among bacteria.
+- --
+- reigning champion 本届冠军
+	- The reigning champion won the match easily.
+- --
+- Meteorology and Climatology 气象学与气候学
+- --
+- retail therapy购物疗法（对花钱买乐这一做法的戏称）
+- retail chain零售联营
+- retail market零售市场
+- retail investor零售投资者
+- --
+- rumour mill 造谣者；散布小道消息的人
+- --
+- to no avail 无益, “to/of no avail”的变体
+	- Your efforts will not come to no avail, if you can achieve something at last.
+- of no avail 无济于事，无效的
+	- He tried and tried but all his efforts were of no avail.
+- --
+- on the basis of 根据(在...的基础上,基于)
+	- We determine our attitude on the basis of the other party.
+- on a daily basis 每天
+	- After May 19, strikes were occurring on a daily basis.
+- on a weekly basis 每周
+	- He goes to the gym on a weekly basis.
+- on a regular basis定期地
+- accrual basis应计制，应计基础
+- genetic basis遗传基础
+- legal basis法律基础，法律依据
+- --
+- love motif 爱的主题 
+- a flower motif 花的图案 
+- the profit motif 赢利的动机
+- --
+- diplomatic channels 外交途径
+	- We need to establish diplomatic channels to resolve the conflict peacefully.我们需要建立外交渠道以和平解决冲突。
+- drainage channel 排水渠道, 排水道
+	- The heavy rain caused the water to overflow from the drainage channel.大雨导致水从排水渠溢出。
+- --
+- molten iron 铁水, 熔融铁
+	- The limestone absorb impurity from the ore and form a fluid slag which floats on the surface of the heavier molten iron.石灰石吸咐了铁矿石中的杂质，形成浮在较重的铁水表面上的流动渣。
+- melt away (冰、雪等)融化掉
+	- The ice cream began to melt away in the sun's heat, creating a sticky puddle on the sidewalk. 冰淇淋在阳光的照射下开始融化，在人行道上形成一滩粘稠的液体。
+- melting pot 熔炉（指多种民族、多种思想等融合混杂的地方或状况）
+	- The scientist's discovery threw that old theory into the melting pot.这个科学家的发现使那个旧理论成为无用之物。
+- melting point熔点
+- in the melting pot在改造中,正起着根本性的变化
+- melting peak熔融峰
+- melt into融入
+---
+
 #### 20260505
 ---
 - domicile system 户籍管理制度
@@ -642,40 +721,6 @@
 - index register 索引寄存器
 ---
 
-
-```
-from playwright.sync_api import sync_playwright
-
-  
-
-def run_test():
-
-    with sync_playwright() as p:
-
-        browser = p.chromium.launch(headless = False)
-
-        page = browser.new_page()
-
-        page.goto("https://www.google.com")
-
-        page.fill("input[name='q']","自动化测试")
-
-        page.press("input[name='q']","Enter")
-
-        page.screenshot(path="google_result.png")
-
-        browser.close()
-
-  
-
-if __name__ == "__main__":
-
-    run_test()
-```
-
-
----
-
 ### 20260401
 ***
 - batten down the hatches (喻)未雨绸缪，做好准备
@@ -783,7 +828,7 @@ The foundation of the building is rock solid.这座建筑的基础非常坚固
 - solid volume 实体积，固相体积，实积
 The solid volume of the box is 10 cubic meters.
 - solid color 单色，纯色
-
+---
 - learning curve 经验学习曲线
 I stuggled at first, but once I understood the basics, the learing curve became much easier. 我一开始很困难，但是一旦我理解了基础知识，学习曲线就变得容易多了
 - duration curve 历时曲线，持续曲线
@@ -796,16 +841,16 @@ The rating curve shows the relationship between the water level and the discharg
 - Laffer curve[税收]拉弗曲线（用以显式税率和经济活动之间的相互关系）
 - career curve 职业曲线
 - wage curve 工资曲线
-
+---
 - antecedent trial 预审，先行实验
 The lawyer presented an antecendent trial to the judge, providing evidence from a similar case that set a precedent.律师向法官提出了一个“先例审判”，提供了一个类似案例的证据，为此案建立了一个先例。
 - antecedent events 先前的事件
 - antecedent conditions 先决条件
 - earliest antecedent 先驱
-
+---
 - underground publications 地下出版物
 There is a thriving market for underground publications in the city.
-
+---
 - in command 镇静，带兵，以指挥员身份
 In World War II, General Lee was in command of the air force.二战期间，里僵局统率空军部队
 - in command of 指挥着
@@ -817,7 +862,7 @@ In a command economy, the government controls all aspects of production and dist
 - have a good command of 精通；对...掌握熟练
 - take command 发号施令，指挥
 - unity of command 指挥的统一
-
+---
 - deep vein thrombosis深静脉血栓形成
 Long feights can increase the risk of developing deep vein thrombosis, especially if you don't move around periodically.长时间飞行会增加患深静脉血栓形成的风险，特别是如果不定期活动的话
 - distention of jugular vein 颈静脉扩张

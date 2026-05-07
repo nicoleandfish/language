@@ -1,3 +1,40 @@
+#### 20260506
+---
+- contrast n.差异，对比 
+- contrary adj.相反的，相对的 
+- contradict v.反驳，否认 
+- contact n.联系，联络 
+- content adj.满足的，满意的，甘愿的 
+- contempt n.轻视，蔑视 
+- context n.背景，环境 
+- construct v.建造，修建 
+- concrete adj.确实的，具体的 
+- compact adj.小型的，袖珍的 
+- contradictory adj.相互矛盾的，对立的 
+- abstract adj.抽象的，纯概念的 
+- subtract vt.减去，删减 
+- distract v.使分心，使转移注意力 
+- conform v.遵守，符合 
+- confirm v.确定，确认
+- --
+- culminate v. （以某种结果）告终
+- cultivate v.开垦，耕作 
+- eliminate v.剔除，根除 
+- dominate v.统治，支配 
+- illuminate v.照射，照亮 
+- nominate v.提名，推荐 
+- ultimate adj.最终的，最后的 
+- terminate v.（使）结束，（使）终止
+- contaminate v.污染，弄脏 
+- accumulate v.积累，积攒 
+- discriminate v.区分，辨别 
+- cumulative adj.积累的，渐增的
+- --
+- viscous adj. 粘稠的；粘滞的
+- vicious adj.凶险的，会造成伤害的 
+- voracious adj.贪婪的 
+- venomous adj.有毒的
+---
 
 #### 20260416
 ---

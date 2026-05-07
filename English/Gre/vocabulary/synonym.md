@@ -1,3 +1,30 @@
+#### 20260506
+---
+- contract n. 合同，契约 v. 收缩；订立合同；感染疾病
+- n. covenant
+- v. shrink
+- --
+- ornament n. 装饰品；首饰；增添光彩的品质 v. 装饰，美化
+- n. adornment|doodad|embellishment|garnishment|garniture|decoration
+- v. adorn|bedeck|drape|embellish|decorate|fancy up
+- --
+-   avail n. 益处，有用 v. 有帮助，有益
+- n. mileage|usefulness|utility
+- v. advantage|benefit|help
+- --
+- disorder n. 失调；杂乱；骚乱；失常
+- n. confusion|disarray|disorganization|mess|muddle|shambles
+- --
+- gallop n. 奔驰，飞快，骑马奔驰，高速度 v. 奔驰，奔跑，飞跑，骑马奔驰
+- v./n. dash|run|jog|scamper|sprint|trot
+- --
+- motif n. 装饰图案；主题，主旨
+- n. subject|theme|topic|pattern
+- --
+- consequently adv. 因此
+- adv. accordingly|therefore|ergo|hence|thereupon|thus
+---
+
 #### 20260505
 ---
 - domicile n. 住所
